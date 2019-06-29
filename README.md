@@ -37,3 +37,28 @@ Link:link:: https://github.com/gargarchit/Federated-Learning-on-MNIST
 
 > Slack Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561731451103600
 ----
+## Day 3/60 [June 29, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on my Project: **Federated Learning on MNIST using PyTorch:torch_heart_big: + PySyft**
+
+i.e Final Project of Lesson 7: Federated Learning :panda_dance:
+
+Link:link:: https://github.com/gargarchit/Federated-Learning-on-MNIST
+
+Spent nearly 3 hours debugging and therefore *achieved 98.9000% Accuracy*
+
+:heavy_check_mark:Completed coursework till Lesson 8 Part 4 i.e *Fixing Additive Secret Sharing [Securing Federated Learning]*:andrew:
+
+:heavy_check_mark: Take part in quiz organized by @Rishi S Rao (Reading Group) *Got 90% Score*:bananadance:
+
+:heavy_check_mark: Revise Lesson 7 Part 1 to Part 8 {Helps me in Debugging}:done:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity
+
+:bettertogether:Would Like to Encourage @Calincan Mircea Ioan, @Yemi:yemi: 
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic1.jpg) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic2.jpg) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic3.jpg)
+
+> Slack Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561822973201400
