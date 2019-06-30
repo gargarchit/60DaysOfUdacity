@@ -33,7 +33,7 @@ Link:link:: https://github.com/gargarchit/Federated-Learning-on-MNIST
 
 :heavy_check_mark:Make a Repo Link: https://github.com/gargarchit/60DaysOfUdacity to manage my Daily Updates on #60daysofudacity
 
-:heavy_check_mark:Would Like to Encourage around 400 scholars added by me in this Channel Today :bettertogether:
+:heavy_check_mark:Would Like to Encourage @George Christopoulos, @Sarah Majors and around 400 scholars added by me in this Channel Today to follow this path:bettertogether:
 
 > Slack Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561731451103600
 ----
@@ -62,3 +62,32 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic3.jpg)
 
 > Slack Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561822973201400
+
+----
+
+## Day 4/60 [June 30, 2019] #60daysofudacity
+
+:heavy_check_mark:Completed my Project: *Federated Learning on MNIST using PyTorch + PySyft* :panda_dance:
+
+Link:link:: https://github.com/gargarchit/Federated-Learning-on-MNIST
+
+:heavy_check_mark::udacity_badge: Published a Article: The Future of AI: Federated Learning  |
+Do Check out: :link: https://medium.com/secure-and-private-ai-writing-challenge/the-future-of-ai-federated-learning-fe977cdd3c62
+
+:heavy_check_mark:Completed coursework till Lesson 8 Part 7
+
+:heavy_check_mark: Start working on Project - *Build Methods for Encrypt, Decrypt, and Add [Securing Federated Learning]*
+
+:heavy_check_mark: Take part in Kahoot quiz organized by @Michael Sheinman
+
+:heavy_check_mark: Revise Lesson 7 Complete :done:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity
+
+:bettertogether:Would Like to Encourage @George Christopoulos, @andreiliphd, @Rishi S Rao, @Michael Sheinman
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic1.jpg) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic2.jpg) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic3.jpg)
+
+> Slack Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561904472132300
