@@ -57,9 +57,9 @@ Spent nearly 3 hours debugging and therefore *achieved 98.9000% Accuracy*
 
 :bettertogether:Would Like to Encourage @Calincan Mircea Ioan, @Yemi:yemi: 
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic1.jpg) *|*
-[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic2.jpg) *|*
-[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic3.jpg)
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic2.png) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic3.png)
 
 > Slack Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561822973201400
 
@@ -86,8 +86,31 @@ Do Check out: :link: https://medium.com/secure-and-private-ai-writing-challenge/
 
 :bettertogether:Would Like to Encourage @George Christopoulos, @andreiliphd, @Rishi S Rao, @Michael Sheinman
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic1.jpg) *|*
-[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic2.jpg) *|*
-[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic3.jpg)
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic2.png) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic3.png)
 
 > Slack Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561904472132300
+
+## Day 5/60 [July 1, 2019] #60daysofudacity
+:heavy_check_mark:Start working on my 3rd Project: *Federated Learning with a trusted secure Aggregator*
+at Google Colab:penguin_dance:{Will share Github link later after pushing there}
+
+:heavy_check_mark:Worked on *Secret Sharing and Fixed Precision in PySyft* :andrew-trask:
+
+:heavy_check_mark:Completed coursework till *Lesson 8: Securing Federated Learning* i.e 91% of Secure and Private AI Challange :udacity_badge:
+
+:heavy_check_mark:Started Convolutional Neural Network[Lesson 5: Intro to deep learning with PyTorch at Udacity] :udacity:
+
+:heavy_check_mark: Take Part in AMA session :akshit-sir:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+:bettertogether:Would Like to Encourage @Adriel Vieira, @Prashant Goyal, @Yemi, @sourav kumar to follow the same path
+
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day5_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day5_pic2.png) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day5_pic3.png)
+
+> Slack Link: https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561986595154900
