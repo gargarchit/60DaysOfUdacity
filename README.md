@@ -137,3 +137,26 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562077659007100)
 ----
+
+## Day 7/60 [July 3, 2019] #60daysofudacity
+
+:heavy_check_mark:Working on a Project: *Federated Learning with Encrypted Gradient Aggregation*
+
+Link:link: https://github.com/gargarchit/Federated-Learning-with-Encrypted-Gradient-Aggregation :andrew-trask:
+
+:heavy_check_mark: Completed Exercise of Lesson 8: Securing Federated Learning :bananadance:
+
+:heavy_check_mark: Discussed about project and Team up with @Rishi S Rao, @Siddharth Srivastava  and started working on *Malaria-Blood-Sample-Classification*:penguin_dance:
+
+:heavy_check_mark: Watching videos of Convolutional Neural Network[Lesson 5: Intro to deep learning with PyTorch at Udacity][Completed till: Part 10]
+
+I would like to encourage @George Christopoulos , @Labiba, @Ana, @Anna Scott :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day7_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day7_pic2.png) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day7_pic3.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562167594318800)
+----
