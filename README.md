@@ -1,7 +1,7 @@
 ![alt text](/Images/logo.jpg)
 
 
-## Day 1/60 [June 27, 2019]
+## Day 1/60 [June 27, 2019] #60daysofudacity
 
 :heavy_check_mark: Completed my first project implemented using **PyTorch** after correcting all errors
 :andrew: **Classification_of_MNIST_Digits_using_Differential_Privacy_and_performing_PATE_analysis_on_that_model related to Lesson 6 Differential Privacy and Deep Learning**:python:
@@ -159,4 +159,29 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day7_pic3.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562167594318800)
+----
+
+## Day 8/60 [July 4, 2019] #60daysofudacity
+:heavy_check_mark:Working on a Project: *Federated Learning with Encrypted Gradient Aggregation*
+
+Link:link: https://github.com/gargarchit/Federated-Learning-with-Encrypted-Gradient-Aggregation :torch_heart_big:
+
+:heavy_check_mark: Take Part in AMA session by @akshit.udacity :akshit-sir: , @Palak.Udacity :palak:
+
+:heavy_check_mark: Working on *Malaria-Blood-Sample-Classification* with group members: @Rishi S Rao, @Siddharth Srivastava:penguin_dance:Link: https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria
+
+:heavy_check_mark: Became *Top writer in Privacy* at Medium :medium:
+
+:heavy_check_mark: Watching videos of Convolutional Neural Network[Lesson 5: Intro to deep learning with PyTorch at Udacity][Completed till: Part 16 *Image Classification steps*]:pytorch:
+
+:heavy_check_mark: Got 2nd position in *Prediction Series* hosted by @Nikita Sukhwal :bananadance:
+
+I would like to encourage @Adriel Vieira @Shreya jaiswal @Manisha @Aniket Thomas @Nikita Sukhwal @Sankalp Dayal @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day8_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day8_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562246865438300)
 ----
