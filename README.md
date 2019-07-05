@@ -185,3 +185,30 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562246865438300)
 ----
+
+## Day 9 [July 5, 2019] #60daysofudacity
+:heavy_check_mark: Completed coursework till Lesson 9 i.e *Introducing Encrypted Deep Learning*
+
+:heavy_check_mark: Created a Pull Request at *Udacity Private AI* :link: https://github.com/udacity/private-ai/pull/10
+
+*[As many are facing difficulty in Section Project therefore I added Federated Learning Project Data to make it easier for students for getting started with the project.]*
+
+:heavy_check_mark:Working on a Project: *Federated Learning with Encrypted Gradient Aggregation* [rectifying error occurred yesterday]
+
+:heavy_check_mark: Discussed about projects with kaggle Competition Team [Total 85 members in group so far]
+
+:heavy_check_mark: Take Part in kahoot quiz (got 10874 points) organized by @Sanskriti Bajaj. I would like to recommend that to everyone to do participate its will helpful in your basics
+
+Thanks @George Christopoulos , @Labiba, @Yemi, @Fustincho, @Gogulaanand R, @Calincan Mircea Ioan for encouraging me always:bettertogether:
+
+I would like to encourage @Poornima Venkatraman @himanshi @Shubhangi Jena @Anna Scott @LauraT
+
+Thanks Community Managers for this Incentive #60daysofudacity as this is giving me motivation to work daily related to DL
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day9_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day9_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562332092201400)
+----
