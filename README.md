@@ -212,3 +212,30 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562332092201400)
 ----
+
+## Day 10 [July 6, 2019] #60daysofudacity
+
+:heavy_check_mark: Completed coursework till Lesson 9 Part 2 i.e *Encrypted Subtraction and Public Multiplication*:heavy_multiplication_x::heavy_minus_sign:
+
+:heavy_check_mark: Fixing Project: *Federated Learning with Encrypted Gradient Aggregation*
+
+ :link:https://github.com/gargarchit/Federated-Learning-with-Encrypted-Gradient-Aggregation :andrew-trask:
+ 
+:heavy_check_mark: Discussed with members of study group #sg_applied_dl and #sg_dlstarguys about project
+
+:heavy_check_mark: Participated in *_Virtual Meetup_* with @Mohit @Hari Vamsi also Thanks to @Oudarjya Sen Sarma @Stuti Verma for joining us
+
+:heavy_check_mark: Working on Titanic Kaggle prediction competition
+
+I would like to encourage @Labiba @George Christopoulos @Rishi S Rao @Fustincho @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day10_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day10_pic2.png) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day10_pic2.png)
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562419116407700)
+
+----
