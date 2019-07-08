@@ -239,3 +239,52 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562419116407700)
 
 ----
+
+## Day 11 [July 7, 2019] #60daysofudacity
+
+:heavy_check_mark: Completed coursework till Lesson 9 Part 3 i.e *Encrypted Computation in PySyft*
+
+:heavy_check_mark: Working on Project: *Federated Learning with Encrypted Gradient Aggregation*
+
+ Checked *Intro to Fixed Precision Encoding* and *Secret Sharing and Fixed Precision in PySyft* to resolve errors in Final Project :andrew-trask:
+ 
+:heavy_check_mark: Discussed with members of study group *#sg_applied_dl* started an incentive of *solving kaggle 
+challange Weekly based on Deep Learning and Computer Vision*  with @Aniket Thomas and other members of group
+
+:heavy_check_mark: Discussed and solving math realted problems at #sg_dlstarguys
+
+:heavy_check_mark: Working on *Digit Recognisation* Kaggle prediction competition *{Computer vision fundamentals}*
+:link: https://www.kaggle.com/c/digit-recognizer/overview
+
+:heavy_check_mark: Completed *Titanic Kaggle prediction competition* with accuracy 98.09%
+
+:heavy_check_mark: Going to attend virtual meetup hosted by @Aniket Mitra  for #sg_dlstarguys  group:bettertogether:
+I would like to encourage @andreiliphd @Fustincho @Oudarjya Sen Sarma @Calincan Mircea Ioan @Anna Scott @Gogulaanand R :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day11_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day11_pic2.png)
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562510437238300)
+-----
+## Day 12 [July 8, 2019] #60daysofudacity
+:heavy_check_mark: Completed coursework till Lesson 9 Part 4 *[Encrypted Deep Learning]*
+
+:heavy_check_mark: Working on Project: *Build an Encrypted Database*
+
+:heavy_check_mark: Working on final project of *[Securing Federated Learning]* will complete it Tommorrow.
+
+:heavy_check_mark: Working on *Digit Recognisation* Kaggle competition *{Computer vision fundamentals}* Image Loading done Thanks to @Roza for solving my query at #tech_help by @Yemi and @Roza
+
+:heavy_check_mark: Participated in AMA session with :akshit-sir: & :palak:
+
+:heavy_check_mark: Started an Incentive  of *solving kaggle challange Weekly based on Deep Learning and Computer Vision* with @Aniket Thomas will make an meeting tommorrow about kaggle challange
+
+I would like to Thanks and encourage @Labiba @sourav kumar @Mika  @Maria  @Vipul Aggarwal  @Sourav @George Christopoulos, @Sankalp Dayal @Taimur Zahid, @Frida, @Halwai Aftab Hasan @Varez.W @Manisha  @Anna Scott @Aniket Mitra @Helena Barmer @Erika Yoon @Soumya Nasipuri @Oudarjya Sen Sarma @Mohona  @Sarah Majors @Munira Omar @Fustincho :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562603409248700)
+-----
