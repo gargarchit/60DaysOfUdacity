@@ -288,3 +288,22 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Mika  @Maria  @Vipul
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562603409248700)
 -----
+
+## Day 13 [July 9, 2019] #60daysofudacity
+:heavy_check_mark: Completed coursework till Lesson 9 Part 6 *[Encrypted Deep Learning in PyTorch]*
+
+:heavy_check_mark: Working on Project: *Detecting Malaria cells* with @Rishi S Rao and @Siddharth Srivastava
+
+:heavy_check_mark: Worked on final project of *[Securing Federated Learning]* and it started working will share final code Tommorrow
+
+:heavy_check_mark: Started an new kind of Virtual meetup with @Aniket Thomas i.e Discussion Thread at #sg_applied_dl where all discuss about projects in a single thread so, we can keep record of everything.
+
+:heavy_check_mark: Discussed about First Project to start with and working on it  *Incentive: solving kaggle challange Weekly based on Deep Learning and Computer Vision* #sg_applied_dl
+
+I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas @Mika  @Maria  @Vipul Aggarwal  @Sourav @George Christopoulos, @Sankalp Dayal @Taimur Zahid, @Frida, @Halwai Aftab Hasan @Varez.W @Manisha  @Anna Scott @Aniket Mitra @Helena Barmer @Erika Yoon @Soumya Nasipuri @Oudarjya Sen Sarma @Mohona  @Sarah Majors @Munira Omar @Fustincho :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562685813423000)
+-----
