@@ -307,3 +307,25 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas @Mika 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562685813423000)
 -----
+
+## Day 14 [July 10, 2019] #60daysofudacity
+
+:heavy_check_mark: Completed coursework till Lesson 9 Part 7 *[Encrypted Deep Learning in Keras]* :andrew-trask:
+
+:heavy_check_mark: Discussing on Plan to implement the project : *Malaria-Blood-Sample-Classification * with @Rishi S Rao and @Siddharth Srivastava
+
+:heavy_check_mark: Working on *Dog breeds* (https://www.kaggle.com/c/dog-breed-identification/data) first project in *Kaggle Weekly* Incentive
+
+:heavy_check_mark: Join for *Kaggle Weekly* here : https://secureprivataischolar.slack.com/archives/CL5652JH2/p1562768518193300
+
+:heavy_check_mark: Completed Train Distributed Dataset Model for *Final Project [Securing Federated Learning]*
+
+Link :link: https://github.com/gargarchit/Federated-Learning-with-Encrypted-Gradient-Aggregation
+
+I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas @Mika  @Sourav @George Christopoulos, @Sankalp Dayal, @Frida, @Anna Scott @Aniket Mitra @Helena Barmer @Erika Yoon @Oudarjya Sen Sarma @Munira Omar @Fustincho :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562685813423000)
+-----
