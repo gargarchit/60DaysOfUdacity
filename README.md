@@ -329,3 +329,24 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas @Mika 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562685813423000)
 -----
+
+## Day 15 [July 11, 2019] #60daysofudacity [25%]
+:heavy_check_mark: Completed coursework till Lesson 9 Part 8 and Checkout *[Keystone Project Description]*
+
+:heavy_check_mark: Working on *Dog breeds* (https://www.kaggle.com/c/dog-breed-identification/data) [*Kaggle Weekly*] #sg_applied_dl
+
+:heavy_check_mark: Won *Prediction Series* organized by @Karthik K and @Nikita Sukhwal at #random [75 mins]  :aaw_yeah:
+
+:heavy_check_mark: Selected as *Student Moderator* for #seek_advice  :heart_eyes:
+
+:heavy_check_mark: Discussing and forming team for HotDog Classification :hotdog: challange at #sg_cognitive-learners
+I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas  @Sourav @George Christopoulos @Sankalp Dayal @Anna Scott @Erika Yoon @Oudarjya Sen Sarma @Fustincho :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic2.png) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic2.png)
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562855293141600)
