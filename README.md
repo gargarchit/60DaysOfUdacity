@@ -1,5 +1,39 @@
 ![alt text](/Images/logo.jpg)
 
+<h2 align=center> Counting begins</h2> 
+ 
+| <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Coffee</h2> |
+| :------------: | :------------: | :------------: | :------------: | 
+| <h2>9 + 3(working)</h2> | <h2>2</h2> | <h2>6</h2> | <h2>15</h2> |
+
+--------
+
+## Completed Projects List
+
+| No  |  Project Title  |  Completed On |
+| :------------: | ------------ | :------------: |
+| 1 | Classification of MNIST Digits using Differential_Privacy and performing PATE_analysis | Day 1 |
+| 2 | Federated Learning on MNIST using PyTorch + PySyft | Day 4 |
+| 3 | Build Methods for Encrypt, Decrypt, and Add | Day 4 |
+| 4 | Secret Sharing and Fixed Precision in PySyft | Day 5 |
+| 6 | Titanic Kaggle prediction competition | Day 11 |
+| 7 | Digit Recognisation Kaggle prediction | Day 12 |
+| 8 | Build an Encrypted Database | Day 12 |
+| 9 | Federated Learning with Encrypted Gradient Aggregation | Day 14 |
+|  | Malaria-Blood-Sample-Classification | Working |
+|  | Dog Breed Identification | Working |
+|  | HotDog Classification | Working |
+
+------------
+
+## Completed Projects List
+
+| No  |  MeetUp Type  | Other Participants |
+| :------------: | :------------: | :------------: |
+| 1 | Virtual | @Archit @Mohit @Hari Vamsi @Oudarjya Sen Sarma |
+| 2 | Virtual | @Aniket Mitra @sourav kumar @Archit @nabhanpv @Aarthi Alagammai @Shikhar Vaish @Akshay Pal  |
+
+------------
 
 ## Day 1/60 [June 27, 2019] #60daysofudacity
 
