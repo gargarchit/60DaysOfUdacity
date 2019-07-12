@@ -32,7 +32,7 @@
 | :------------: | :------------: | :------------: |
 | 1 | Virtual | @Archit @Mohit @Hari Vamsi @Oudarjya Sen Sarma |
 | 2 | Virtual | @Aniket Mitra @sourav kumar @Archit @nabhanpv @Aarthi Alagammai @Shikhar Vaish @Akshay Pal  |
-| 3 | Virtual | @Labiba @Ashish Shrivastava @Archit @Joy Poddar @Mayank Devnani @MD Abdullah Al Nasim @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire |
+| 3 | Virtual | @Labiba @Ashish Shrivastava @Archit @Joy Poddar @Mayank Devnani @Md. Mahedi Hasan Riday @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire |
 
 ------------
 
@@ -394,7 +394,7 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 
 :heavy_check_mark: Checkout Slarck activity of student moderator channel as suggest by @Palak.Udacity
 
-:heavy_check_mark: Take part in *Virtual Meetup* with @Labiba @Ashish Shrivastava @Joy Poddar @Mayank Devnani @MD Abdullah Al Nasim @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire hosted by @Labiba :simple_smile: discussing about Song Recommendation
+:heavy_check_mark: Take part in *Virtual Meetup* with @Labiba @Ashish Shrivastava @Joy Poddar @Mayank Devnani @Md. Mahedi Hasan Riday @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire hosted by @Labiba :simple_smile: discussing about Song Recommendation
 
 :heavy_check_mark: Completed till *Changing the reference frame* [Mathematics for Machine Learning] (#sg_dlstarguys study group)
 
