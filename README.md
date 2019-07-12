@@ -383,4 +383,4 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic2.png)
 
 
-> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562855293141600)
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562855382143200)
