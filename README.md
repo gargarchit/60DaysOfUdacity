@@ -2,9 +2,9 @@
 
 <h2 align=center> Counting begins</h2> 
  
-| <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Coffee</h2> |
+| <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>9 + 3(working)</h2> | <h2>2</h2> | <h2>6</h2> | <h2>15</h2> |
+| <h2>9 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>16</h2> |
 
 --------
 
@@ -28,10 +28,11 @@
 
 ## Completed Projects List
 
-| No  |  MeetUp Type  | Other Participants |
+| No  |  MeetUp Type  | Participants |
 | :------------: | :------------: | :------------: |
 | 1 | Virtual | @Archit @Mohit @Hari Vamsi @Oudarjya Sen Sarma |
 | 2 | Virtual | @Aniket Mitra @sourav kumar @Archit @nabhanpv @Aarthi Alagammai @Shikhar Vaish @Akshay Pal  |
+| 3 | Virtual | @Labiba @Ashish Shrivastava @Archit @Joy Poddar @Mayank Devnani @MD Abdullah Al Nasim @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire |
 
 ------------
 
@@ -380,7 +381,39 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas  @Sour
 
 Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic2.png) *|*
-[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic2.png)
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic3.png)
 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562855382143200)
+
+---------
+
+## Day 16 [July 12, 2019] #60daysofudacity
+
+:heavy_check_mark: *Completed Coursework for Part 1* [100%] :aaw_yeah:
+
+:heavy_check_mark: Checkout Slarck activity of student moderator channel as suggest by @Palak.Udacity
+
+:heavy_check_mark: Take part in *Virtual Meetup* with @Labiba @Ashish Shrivastava @Joy Poddar @Mayank Devnani @MD Abdullah Al Nasim @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire hosted by @Labiba :simple_smile: discussing about Song Recommendation
+
+:heavy_check_mark: Completed till *Changing the reference frame* [Mathematics for Machine Learning] (#sg_dlstarguys study group)
+
+:heavy_check_mark: Team up with @Sankalp Dayal @Calincan Mircea Ioan for HotDog Classification :hotdog: challange at #sg_cognitive-learners and discussing about it.
+
+:heavy_check_mark:Join Study group #sg_spai-health approved today where we already working on the domain of primary health, identifying and understanding health problem started with working on spread of malaria using the techniques of deep learning while preserving privacy of patients using Differentially privacy and Federated learning.
+
+I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas  @Sourav @George Christopoulos @Sankalp Dayal @Anna Scott @Erika Yoon @Oudarjya Sen Sarma @Fustincho @Calincan Mircea Ioan :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity and added some summary visualization 
+
+:60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic2.png) *|*
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic3.png) *|* 
+[pic_4](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic4.png) *|*
+[pic_5](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic5.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562855382143200)
+
+---------
