@@ -1,10 +1,10 @@
 ![alt text](/Images/logo.jpg)
 
-<h2 align=center> Counting begins</h2> 
+<h2> Counting begins</h2> 
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>9 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>16</h2> |
+| <h2>9 + 4(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>17</h2> |
 
 --------
 
@@ -23,10 +23,11 @@
 |  | Malaria-Blood-Sample-Classification | Working |
 |  | Dog Breed Identification | Working |
 |  | HotDog Classification | Working |
+|  | Hackathon Blossom (Flower Classification) | Working |
 
 ------------
 
-## Completed Projects List
+## MeetUps List
 
 | No  |  MeetUp Type  | Participants |
 | :------------: | :------------: | :------------: |
@@ -415,5 +416,27 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 [pic_5](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic5.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562855382143200)
+
+---------
+
+## Day 17 [July 13, 2019] #60daysofudacity
+:heavy_check_mark: Started *Keystone Project* from Lesson 9 *[Encrypted Deep Learning]*
+
+:heavy_check_mark: Discussing about virtual meetup schedule tomorrow and Completed till *Week 2* [Mathematics for Machine Learning] (#sg_dlstarguys study group)
+
+:heavy_check_mark: Working on *Hackathon Blossom (Flower Classification)* with @Aniket Thomas and @Vebby
+
+:heavy_check_mark: Take part in Quiz 2 by *(SPARC)* @Rishi S Rao
+
+:heavy_check_mark: Working on *Dog breeds Identifier* #sg_applied_dl
+
+:heavy_check_mark: Working on *Convolutional neural network* at Intro to deep learning with Pytorch
+
+I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao @Yemi @Aniket Thomas  @Sourav @George Christopoulos @Sankalp Dayal @Anna Scott @Erika Yoon @Oudarjya Sen Sarma @Fustincho @Calincan Mircea Ioan :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563034449466600)
 
 ---------
