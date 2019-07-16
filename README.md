@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>9 + 4(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>17</h2> |
+| <h2>9 + 4(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>19</h2> |
 
 --------
 
@@ -440,3 +440,52 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao @Yemi @A
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563034449466600)
 
 ---------
+
+## Day 18 [July 14, 2019] #60daysofudacity
+[Sunday but worked a lot :sweat_smile:]
+
+:heavy_check_mark: Worked on *Hackathon Blossom (Flower Classification)* with @Aniket Thomas and @Vebby
+
+       [Training of model done and now working on evaluating where training took more than 3 hours to work on this]
+       
+:heavy_check_mark: Checkout my notes and some blogs for doing *Keystone Project*
+
+:heavy_check_mark: Working on *Pooling Layers* Part 30 lesson 5 *Intro to deep learning with Pytorch* Today I did Part 25-30
+
+:heavy_check_mark: learning how to Deploying deep learning model
+
+I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao @Yemi @Aniket Thomas  @Sourav @George Christopoulos @Sankalp Dayal @Anna Scott @Erika Yoon @Oudarjya Sen Sarma @Fustincho @Calincan Mircea Ioan :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity and added some summary visualization 
+:60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day18_pic1.png) *|*
+[pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day18_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563120485130200)
+
+-------
+
+## Day 19 [July 15, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on *Printing The Predictions On The Test Set* on *Hackathon Blossom (Flower Classification)* with @Aniket Thomas and @Vebby
+
+:heavy_check_mark: Participated in #tech_help AMA Thanks to @Prashant Goyal @Arka @Roza to provide me help for the problem
+
+:heavy_check_mark: Participated in #ama_sessions by @Palak.Udacity :palak:
+
+:heavy_check_mark: Participated in *[Webinar] AMA with Robert Wagner*
+
+:heavy_check_mark: Working on *Dog Breed Prediction* Chellange at #sg_applied_dl
+
+:heavy_check_mark: Working on *Cell Images for Detecting Malaria* (#sg_spai-health) with @Rishi S Rao and @Siddharth Srivastava
+
+I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao @Yemi @Aniket Thomas  @Sourav @George Christopoulos @Sankalp Dayal @Anna Scott @Erika Yoon @Oudarjya Sen Sarma @Fustincho @Calincan Mircea Ioan :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity and added some summary visualization :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day19_pic1.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563207671331500)
+
+-------
