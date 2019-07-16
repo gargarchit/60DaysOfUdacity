@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>9 + 4(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>19</h2> |
+| <h2>9 + 4(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>20</h2> |
 
 --------
 
@@ -489,3 +489,31 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563207671331500)
 
 -------
+
+## Day 20 [July 16, 2019] #60daysofudacity
+
+:heavy_check_mark: Submitted *SPAI Hack Kernel* to *Hackathon Blossom (Flower Classification)* working in collaboration with @Aniket Thomas and @Vebby :sunflower: 
+
+{preparing Predictions took a lot of time and not able to perform well but got to learn many things} Thanks to Moderators @Munira Omar @Ivy @Mushrifah Hasan @Mohona @Amina Assouane for providing this
+
+Link:link:  https://www.kaggle.com/anitho2910/spai-hack
+
+:heavy_check_mark: Participated in #tech_help AMA by @Varez.W and @Manisha 
+
+:heavy_check_mark: Working on *Key Stone Project* SPAI :udacity_badge: 
+
+:heavy_check_mark: Discussing for *HotDog Classification challange* at #sg_cognitive-learners 
+
+Link :link: https://www.kaggle.com/dansbecker/hot-dog-not-hot-dog/data
+
+:heavy_check_mark: Discussed about one new incentive with student mods and special Thanks to @Calincan Mircea Ioan, @Yemi and @Carlo David for helping me and guiding me :clapping: :celebrate: 
+
+:heavy_check_mark: Got *1 Month of free Qwiklabs access to learn Data Engineering on Google Cloud*:celebrate:  working on *Baseline: Data, ML, AI* Thanks to @akshu18 for this
+
+I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao  @Sourav @George Christopoulos @Sankalp Dayal @Anna Scott @Erika Yoon @Oudarjya Sen Sarma @Fustincho :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day20_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day20_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563207671331500)
