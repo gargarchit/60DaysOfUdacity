@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>9 + 4(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>20</h2> |
+| <h2>9 + 4(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>21</h2> |
 
 --------
 
@@ -20,10 +20,11 @@
 | 7 | Digit Recognisation Kaggle prediction | Day 12 |
 | 8 | Build an Encrypted Database | Day 12 |
 | 9 | Federated Learning with Encrypted Gradient Aggregation | Day 14 |
+| 10 | Hackathon Blossom (Flower Classification) | Day 20 |
 |  | Malaria-Blood-Sample-Classification | Working |
 |  | Dog Breed Identification | Working |
 |  | HotDog Classification | Working |
-|  | Hackathon Blossom (Flower Classification) | Working |
+|  | KeyStone Project | Working |
 
 ------------
 
@@ -517,3 +518,33 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao  @Sourav
 Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day20_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day20_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563207671331500)
+
+------
+
+## Day 21 [July 17, 2019] #60daysofudacity
+
+:heavy_check_mark: Got some right intiution and started for *Final Project* where I started implementing *local DP, global DP, encrypted federated learning and analyzed the outcomes of the models with PATE analysis*. Thanks to @José Fonceca for helping me
+
+:heavy_check_mark: Working on *Dog Breed Identification* for #sg_applied_dl and preparing for *Kaggle Weekly*. Next Challenge Tomorrow Participants need to submit there work and will choose new one.
+
+Thanks to @Ellyana Linden for resolving error :thank-you:
+
+:heavy_check_mark: Working on *Baseline: Data, ML, AI* at Qwiklabs
+
+:heavy_check_mark: Read some great Articles including *CNNs for Text Classification* by Cezanne Camacho :smile:
+
+Link :link: https://cezannec.github.io/CNN_Text_Classification/
+
+:heavy_check_mark: Reached the milestone of 1000+ views on my Medium Article during Secure and private AI Scholarship :udacity_badge:
+
+Encouraging and Thanks to @Calincan Mircea Ioan @Labiba @Vebby @Anna Scott @Carlo David @Adriel Vieira :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day21_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day21_pic2.png) *|* 
+[pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day21_pic3.png)
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563380680247100)
+
+------
