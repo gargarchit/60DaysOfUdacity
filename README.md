@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>9 + 4(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>21</h2> |
+| <h2>10 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>22</h2> |
 
 --------
 
@@ -21,8 +21,8 @@
 | 8 | Build an Encrypted Database | Day 12 |
 | 9 | Federated Learning with Encrypted Gradient Aggregation | Day 14 |
 | 10 | Hackathon Blossom (Flower Classification) | Day 20 |
+| 11 | Dog Breed Identification | Day 21 |
 |  | Malaria-Blood-Sample-Classification | Working |
-|  | Dog Breed Identification | Working |
 |  | HotDog Classification | Working |
 |  | KeyStone Project | Working |
 
@@ -546,5 +546,35 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563380680247100)
+
+------
+## Day 22 [July 18, 2019] #60daysofudacity
+:heavy_check_mark: Checking out and worked on *Federated learning using websockets - MNIST example* at: :link: 
+
+https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials/advanced/websockets-example-MNIST
+
+:heavy_check_mark: Working on GAN Tshirt Tutorial reference :link: https://github.com/parthatom/GANonTshirtTutorial with @Labiba and @Shubhendu Mishra for #sg_project-t-shirt
+
+:heavy_check_mark: Got 2nd position in *Prediction Series* organized by @Karthik K and @Nikita Sukhwal at #random [75 mins]  :aaw_yeah:
+
+:heavy_check_mark: Participated in AMA session by @Palak.Udacity :palak:
+
+:heavy_check_mark: Take part and solved questions in _Python Learning Initiative_ DAY 10, by @Aisha Javed @Shashank Jain
+
+:heavy_check_mark: Announced Week 2 of kaggle weekly. Do join us at #sg_applied_dl  Link: 
+
+https://secureprivataischolar.slack.com/archives/CL5652JH2/p1563457547332200
+
+:heavy_check_mark: Participated in *AWS Innovate Online Conference 2019*
+
+*“Success is assured when a person fears the pain of regret more than the pain of the process.”*
+
+Encouraging and Thanks to @Calincan Mircea Ioan @Labiba @Vebby @Aniket Thomas @Anna Scott @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar @Aisha Javed :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day22_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day22_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563463659405900)
 
 ------
