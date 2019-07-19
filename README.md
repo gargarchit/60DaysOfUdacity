@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>10 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>22</h2> |
+| <h2>10 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>23</h2> |
 
 --------
 
@@ -578,3 +578,29 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563463659405900)
 
 ------
+
+## Day 23 [July 19, 2019] #60daysofudacity
+
+:heavy_check_mark: Watched and working on Validation loss on MINST mlp Project :udacity_badge:
+
+:heavy_check_mark: checking out GAN Tshirt Tutorial references :link: https://github.com/parthatom/GANonTshirtTutorial  and GAN Paper :link: https://arxiv.org/abs/1406.2661 with @Labiba and @Shubhendu Mishra for #sg_project-t-shirt
+
+:heavy_check_mark: Team up with @Aniket Thomas @Vebby @akshu18 for *Hackathon Auto-matic* Challenge at #sg_hackathon-orgnizrs Organized by @Ivy@Mushrifah Hasan @Munira Omar @Amina Assouane @Mohona
+
+:heavy_check_mark:*Going from Gaussian elimination to finding the inverse matrix* from Mathematics for Machine Learning Week 3 #sg_dlstarguys
+
+:heavy_check_mark: Discussing about *Malaria Cell Images Dataset* and *Chest X-Ray Dataset* at #sg_spai-health
+
+:heavy_check_mark: Started working on *Hot Dog - Not Hot Dog* with @Calincan Mircea Ioan, @Soumya Nasipuri @Marwa 
+@Sankalp Dayal @Joanna Gon @Nirupama Singh
+
+*"It is better to fail in originality than to succeed in imitation."*:heart:
+
+Encouraging and Thanks to  @Labiba @Anna Scott @George Christopoulos @Arka @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic3.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563551028192600)
+
