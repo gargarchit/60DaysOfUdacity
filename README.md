@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>10 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>23</h2> |
+| <h2>11 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>27</h2> |
 
 --------
 
@@ -25,6 +25,7 @@
 |  | Malaria-Blood-Sample-Classification | Working |
 |  | HotDog Classification | Working |
 |  | KeyStone Project | Working |
+|  | Leaf Classification | Working |
 
 ------------
 
@@ -603,4 +604,114 @@ Encouraging and Thanks to  @Labiba @Anna Scott @George Christopoulos @Arka @Ouda
 Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic3.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563551028192600)
+----------
+
+## Day 24 [July 20, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Style Transfer and completed till Separating Style & Content Part 2 of Lesson 6 [Style Transfer] with @Labiba and @Shubhendu Mishra
+
+:heavy_check_mark: Started working on Cars Dataset with @Aniket Thomas @Vebby @akshu18 for Hackathon Auto-matic Challenge at #sg_hackathon-orgnizrs
+
+:heavy_check_mark: Completed till Determinants and inverses from Mathematics for Machine Learning Course Week 3 #sg_dlstarguys
+
+:heavy_check_mark: Planning for Leaf Classification Project at #sg_clan
+
+:heavy_check_mark: Discussing about Recognizing Faces in the Wild with @Aniket Thomas @Vebby
+
+Encouraging and Thanks to  @Labiba @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Arka @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563636170440700)
+--------
+## Day 25 [July 21, 2019] #60daysofudacity
+
+Finally in need of #busy_or_overwhelmed channel Today
+
+:heavy_check_mark: Working on VGG19 & Content Loss Part 3 of Lesson 6 [Style Transfer] Intro to Deep Learning with PyTorch :udacity_badge:
+
+:heavy_check_mark: Working on Hackathon Auto-matic Challenge with @Aniket Thomas @Vebby @akshu18 at #sg_hackathon-orgnizrs :car:
+
+Dataset Link: :link: https://www.kaggle.com/c/virtual-hack
+
+Kernel Link and picture will share after hackthon ends :smile:
+
+:heavy_check_mark: Completed Week 3 of Mathematics for Machine Learning Course  #sg_dlstarguys :maths:
+
+:heavy_check_mark: Got 3rd Rank in Kahoot Quiz organized by @Michael Sheinman at #general :celebrate:
+
+:heavy_check_mark: Solved Quiz 3 by SPARC prepared by @Rishi S Rao
+
+:link: https://docs.google.com/forms/d/e/1FAIpQLSehds_FM9YvswUZ48jqWiNXTb6j2j3mQpuYxSdhnpbbv8P8rg/viewform
+
+:heavy_check_mark: Watched Lesson 1: Deep Learning 2019 - Image classification by fast.ai :ultra_fast_parrot:
+
+:heavy_check_mark: Working Recognizing Faces in the Wild with @Aniket Thomas @Vebby
+
+:heavy_check_mark: Joined #sg_novice-ai and Thanks to @Stark @Hung @ayivima for doing great Job there and motivating me :smiley:
+
+Encouraging and Thanks to  @Labiba @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Khush @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic3.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563727975420500)
+
+--------
+
+## Day 26 [July 22, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Gram Matrix Part 4 of Lesson 6 [Style Transfer] Intro to Deep Learning with PyTorch :udacity_badge:
+
+:heavy_check_mark: Submitted Kernel for Hackathon Auto-matic Challenge with @Aniket Thomas @Vebby @akshu18 at #sg_hackathon-orgnizrs :car:
+
+Kernel Link: :link: https://www.kaggle.com/anitho2910/spai-racer-auto-hackathon
+
+:heavy_check_mark: Working on Recognizing Faces in the Wild with @Aniket Thomas @Vebby at #sg_applied_dl
+
+:heavy_check_mark: Discuss with @Labiba and @Shubhendu Mishra regarding #sg_project-t-shirt and working on style transfer
+
+:heavy_check_mark: Started with lecture 6 of Stanford's CS231n  :link: http://cs231n.stanford.edu/
+
+Encouraging and Thanks to  @Labiba @Vebby @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Khush @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day26_pic1.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563807802065700)
+
+-----------
+
+## Day 27 [July 23, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on *Style Loss* Lesson 6 Part 5 of *[Style Transfer]* Intro to Deep Learning with PyTorch :udacity_badge:
+
+:heavy_check_mark: Read a great Article *Convolutional Neural Networks* by _Cezanne Camacho_ :cherry_blossom:
+
+ :link: https://cezannec.github.io/Convolutional_Neural_Networks/
+ 
+:heavy_check_mark: Discussing on *Recognizing Faces in the Wild* with @Aniket Thomas @Vebby at #sg_applied_dl
+
+:heavy_check_mark: Reading about Malaria Disease while working for project at #sg_spai-health
+
+:heavy_check_mark: Working on *Leaf Classification* Project with @Shudipto Trafder at #sg_clan
+
+:heavy_check_mark: Watching *lecture 1 of Stanford's CS230*  :link: http://cs230.stanford.edu/
+
+Special Thanks to @Yemi @LauraT @THIYAGARAJAN R for doing great work by providing _The Digest_ and motivating us always :ddance2:
+
+Also I would like to Encourage and Thanks to  @Labiba @Stark @Hung @ayivima @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar 
+:bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563900357055400)
+
+------------
 
