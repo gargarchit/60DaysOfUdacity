@@ -709,7 +709,7 @@ Also I would like to Encourage and Thanks to  @Labiba @Stark @Hung @ayivima @Cal
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic2.png)
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day27_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day27_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563900357055400)
 
