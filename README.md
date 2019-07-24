@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>11 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>27</h2> |
+| <h2>11 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>28</h2> |
 
 --------
 
@@ -714,4 +714,28 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563900357055400)
 
 ------------
+## Day 28 [July 24, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on *Loss Weights* Part 6 of Lesson 6 of *[Style Transfer]* Intro to Deep Learning with PyTorch :udacity:
+
+:heavy_check_mark: Completed *Baseline: Data, ML, AI* Quest at Google Qwiklabs
+
+:heavy_check_mark: Reading Article _The Building Blocks of Interpretability_ recommended by @José Fonceca Thanks bro for this
+
+       :link: https://distill.pub/2018/building-blocks/
+       
+:heavy_check_mark: Watching *lecture 2 of Stanford's CS230*  :link: http://cs230.stanford.edu/
+
+:heavy_check_mark: Working on Leaf Classification Project with @Shudipto Trafder at #sg_clan
+
+:ddance2: Something Exciting is going to come there at *#seek_advice* with @Carlo David and @Suraiya Khan *Stay Tuned!!* Join now :ddance:
+
+Also I would like to Encourage and Thanks to  @Labiba @Vebby @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar @Shreya jaiswal :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic2.png) *|* [pic_4](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic3.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563985571273700)
+
 
