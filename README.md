@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>11 + 3(working)</h2> | <h2>3</h2> | <h2>6</h2> | <h2>28</h2> |
+| <h2>11 + 3(working)</h2> | <h2>4</h2> | <h2>6</h2> | <h2>33</h2> |
 
 --------
 
@@ -36,6 +36,7 @@
 | 1 | Virtual | @Archit @Mohit @Hari Vamsi @Oudarjya Sen Sarma |
 | 2 | Virtual | @Aniket Mitra @sourav kumar @Archit @nabhanpv @Aarthi Alagammai @Shikhar Vaish @Akshay Pal  |
 | 3 | Virtual | @Labiba @Ashish Shrivastava @Archit @Joy Poddar @Mayank Devnani @Md. Mahedi Hasan Riday @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire |
+| 4| Virtual | @sourav kumar @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Munira Omar @Labiba @Ashish Shrivastava @Govind @Sharim |
 
 ------------
 
@@ -734,8 +735,112 @@ Also I would like to Encourage and Thanks to  @Labiba @Vebby @Calincan Mircea Io
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic2.png) *|* [pic_4](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic3.png)
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic3.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563985571273700)
 
+--------------
 
+## Day 29 [July 25, 2019] #60daysofudacity
+:heavy_check_mark: Watched till VGG Features Part 7 of Lesson 6 of [Style Transfer]  :udacity:
+
+:heavy_check_mark: Started Data Science on the Google Cloud Platform at Google Qwiklabs
+
+:heavy_check_mark: Started working on Key Stone project after collecting all data and information
+Thanks @andrew  :andrew:  to help me at Openminded Slack
+
+:heavy_check_mark: Participated in AMA session by @Palak.Udacity :palak:  :udacity_badge:
+
+:heavy_check_mark:Discussing with @sourav kumar @Mohona @Labiba  @Aniket Mitra @Diganta @Calincan Mircea Ioan @Agata [OR, USA] for Something Interesting is going to come :ddance2::ddance2::ddance2:
+
+Also I would like to Encourage and Thanks to  @Labiba @Vebby @Aniket Thomas @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar @susyjam @Hung :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day29_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day29_pic2.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564067948359200)
+
+---------
+
+## Day 30 [July 26, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on  Exercise Notebook of Lesson 6 of [Style Transfer]  :udacity:
+
+:heavy_check_mark: Watching and worked on Einstein summation convention and the symmetry of the dot product #sg_dlstarguys
+
+:heavy_check_mark: Working on Key Stone project  Data loading done using MNIST dataset
+
+:heavy_check_mark: Participated in GratitudeWeekend at #celebrate I would like everyone of you to participate in this :awesome-ball: incentive
+
+:heavy_check_mark: Update kernel for Leaf Classification [Added Architecture model] #sg_clan with @Shudipto Trafder
+Also I would like to Encourage and Thanks to  @Aniket Mitra @Yemi @Sourav @Labiba @Vebby @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day30_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day30_pic2.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564157454370500)
+
+
+--------
+
+## Day 31 [July 27, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Features & Gram Matrix of Lesson 6 Part 9 of [Style Transfer]  :udacity:
+
+:heavy_check_mark: Watching and worked on Matrices changing basis #sg_dlstarguys Week 4
+
+:heavy_check_mark: Working on Key Stone project doing Data Processing and Visualization
+
+:heavy_check_mark: Working on Hot Dog Classification Project at #sg_clan
+
+Also I would like to Encourage and Thanks to  @Aniket Mitra @Yemi @Sourav @Labiba @Vebby @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day31_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day31_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564240820085000)
+
+------
+
+## Day 32 [July 28, 2019] #60daysofudacity
+
+:heavy_check_mark: Watched and Working on Defining the Loss of Lesson 6 Part 9 of [Style Transfer]  :udacity:
+
+:heavy_check_mark: Watching and worked on Doing a transformation in a changed basis #sg_dlstarguys Week 4
+
+:heavy_check_mark: Working on Key Stone project Creation of Data Loader done
+
+:heavy_check_mark: Discussing with @sourav kumar @Mohona @Labiba  @Aniket Mitra @Diganta @Calincan Mircea Ioan @Agata [OR, USA] for a new incentive at #math_help and #sg_dlstarguys
+
+Also I would like to Encourage and Thanks to  @Aniket Mitra @Yemi @Sourav @Labiba @Vebby @Calincan Mircea Ioan @José Fonceca @Anna Scott @George Christopoulos @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day32_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day32_pic2.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564329774449800)
+
+---------
+
+## Day 33 [July 29, 2019] #60daysofudacity
+
+:heavy_check_mark: Watched and Working on Total Loss & Complete Solution of Lesson 6 Part 12 of [Style Transfer]  :udacity:
+
+:heavy_check_mark: Had a great Meetup with @sourav kumar @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Munira Omar @Labiba @Ashish Shrivastava @Govind @Sharim :awesome-ball:
+
+:heavy_check_mark: Launched a new incentive with @sourav kumar @Mohona @Labiba  @Aniket Mitra @Diganta @Calincan Mircea Ioan @Agata [OR, USA] i.e  Maths Blogging competition
+
+For more details Checkout :link: https://secureprivataischolar.slack.com/archives/CKRP153JS/p1564384352065800
+
+:heavy_check_mark: Working and checking out datasets to release next challenge on #sg_applied_dl
+
+Also I would like to Encourage and Thanks to @Yemi @Sourav @Vebby @José Fonceca @Anna Scott @George Christopoulos @Carlo David @Adriel Vieira @Ellyana Linden :bettertogether: 
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic3.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564419062331000)
+
+-----------
