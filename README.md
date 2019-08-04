@@ -2,9 +2,9 @@
 
 <h2> Counting begins</h2> 
  
-| <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles</h2> | <h2>Cups of Coffee</h2> |
+| <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles Written</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>11 + 3(working)</h2> | <h2>4</h2> | <h2>6</h2> | <h2>33</h2> |
+| <h2>11 + 3(working)</h2> | <h2>4</h2> | <h2>6</h2> | <h2>38</h2> |
 
 --------
 
@@ -55,7 +55,7 @@ Link ::link:   https://github.com/gargarchit/PATE_Analysis   with Accuracy 92.36
 Already Encouraged @Manisha & @Labiba to take part and they started as well :bettertogether: 
 #60DaysOfUdacity
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day1_pic1.jpg) *|*
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day1_pic1.jpg) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day1_pic2.jpg)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561639265023100)
@@ -96,7 +96,8 @@ Spent nearly 3 hours debugging and therefore *achieved 98.9000% Accuracy*
 
 :bettertogether:Would Like to Encourage @Calincan Mircea Ioan, @Yemi:yemi: 
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic2.png) *|*
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic3.png)
 
@@ -125,7 +126,8 @@ Do Check out: :link: https://medium.com/secure-and-private-ai-writing-challenge/
 
 :bettertogether:Would Like to Encourage @George Christopoulos, @andreiliphd, @Rishi S Rao, @Michael Sheinman
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic2.png) *|*
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic3.png)
 
@@ -150,7 +152,8 @@ at Google Colab:penguin_dance:{Will share Github link later after pushing there}
 :bettertogether:Would Like to Encourage @Adriel Vieira, @Prashant Goyal, @Yemi, @sourav kumar to follow the same path
 
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day5_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day5_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day5_pic2.png) *|*
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day5_pic3.png)
 
@@ -171,7 +174,7 @@ I would like to encourage @Frida, @Fustincho, @Helena Barmer :bettertogether:
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day6_pic1.png) *|*
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day6_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day6_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562077659007100)
@@ -193,7 +196,7 @@ I would like to encourage @George Christopoulos , @Labiba, @Ana, @Anna Scott :be
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day7_pic1.png) *|*
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day7_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day7_pic2.png) *|*
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day7_pic3.png)
 
@@ -219,7 +222,7 @@ I would like to encourage @Adriel Vieira @Shreya jaiswal @Manisha @Aniket Thomas
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day8_pic1.png) *|*
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day8_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day8_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562246865438300)
@@ -246,7 +249,8 @@ Thanks Community Managers for this Incentive #60daysofudacity as this is giving 
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day9_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day9_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day9_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562332092201400)
@@ -270,7 +274,8 @@ I would like to encourage @Labiba @George Christopoulos @Rishi S Rao @Fustincho 
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day10_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day10_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day10_pic2.png) *|*
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day10_pic2.png)
 
@@ -302,7 +307,8 @@ I would like to encourage @andreiliphd @Fustincho @Oudarjya Sen Sarma @Calincan 
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day11_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day11_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day11_pic2.png)
 
 
@@ -383,7 +389,8 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas  @Sour
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic2.png) *|*
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day15_pic3.png)
 
@@ -412,7 +419,8 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Aniket Thomas  @Sour
 
 :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic2.png) *|*
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic3.png) *|* 
 [pic_4](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day16_pic4.png) *|*
@@ -462,7 +470,8 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao @Yemi @A
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity and added some summary visualization 
 :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day18_pic1.png) *|*
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day18_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day18_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563120485130200)
@@ -487,7 +496,8 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao @Yemi @A
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity and added some summary visualization :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day19_pic1.png) 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day19_pic1.png) 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563207671331500)
 
@@ -517,7 +527,8 @@ I would like to Thanks and encourage @Labiba @sourav kumar @Rishi S Rao  @Sourav
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day20_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day20_pic2.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day20_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day20_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563207671331500)
 
@@ -543,7 +554,8 @@ Encouraging and Thanks to @Calincan Mircea Ioan @Labiba @Vebby @Anna Scott @Carl
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day21_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day21_pic2.png) *|* 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day21_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day21_pic2.png) *|* 
 [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day21_pic3.png)
 
 
@@ -575,7 +587,7 @@ Encouraging and Thanks to @Calincan Mircea Ioan @Labiba @Vebby @Aniket Thomas @A
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day22_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day22_pic2.png)
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day22_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day22_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563463659405900)
 
@@ -602,7 +614,8 @@ Encouraging and Thanks to  @Labiba @Anna Scott @George Christopoulos @Arka @Ouda
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic3.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day23_pic3.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563551028192600)
 ----------
@@ -623,7 +636,8 @@ Encouraging and Thanks to  @Labiba @Calincan Mircea Ioan @José Fonceca @Anna Sc
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic2.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day24_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563636170440700)
 --------
@@ -657,7 +671,8 @@ Encouraging and Thanks to  @Labiba @Calincan Mircea Ioan @José Fonceca @Anna Sc
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic3.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day25_pic3.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563727975420500)
 
@@ -681,7 +696,7 @@ Encouraging and Thanks to  @Labiba @Vebby @Calincan Mircea Ioan @José Fonceca @
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day26_pic1.png)
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day26_pic1.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563807802065700)
 
@@ -710,7 +725,8 @@ Also I would like to Encourage and Thanks to  @Labiba @Stark @Hung @ayivima @Cal
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day27_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day27_pic2.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day27_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day27_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563900357055400)
 
@@ -735,7 +751,7 @@ Also I would like to Encourage and Thanks to  @Labiba @Vebby @Calincan Mircea Io
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic3.png)
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day28_pic3.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1563985571273700)
 
@@ -757,7 +773,8 @@ Also I would like to Encourage and Thanks to  @Labiba @Vebby @Aniket Thomas @Cal
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day29_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day29_pic2.png) 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day29_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day29_pic2.png) 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564067948359200)
 
@@ -778,7 +795,8 @@ Also I would like to Encourage and Thanks to  @Aniket Mitra @Yemi @Sourav @Labib
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day30_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day30_pic2.png) 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day30_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day30_pic2.png) 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564157454370500)
 
@@ -799,7 +817,8 @@ Also I would like to Encourage and Thanks to  @Aniket Mitra @Yemi @Sourav @Labib
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day31_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day31_pic2.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day31_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day31_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564240820085000)
 
@@ -819,7 +838,8 @@ Also I would like to Encourage and Thanks to  @Aniket Mitra @Yemi @Sourav @Labib
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day32_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day32_pic2.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day32_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day32_pic2.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564329774449800)
 
@@ -839,7 +859,8 @@ For more details Checkout :link: https://secureprivataischolar.slack.com/archive
 
 Also I would like to Encourage and Thanks to @Yemi @Sourav @Vebby @José Fonceca @Anna Scott @George Christopoulos @Carlo David @Adriel Vieira @Ellyana Linden :bettertogether: 
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic3.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day33_pic3.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564419062331000)
 
@@ -859,7 +880,7 @@ Also I would like to Encourage and Thanks to @Yemi @Sourav @Vebby @José Fonceca
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day34_pic1.png)
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day34_pic1.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564506587075500)
 
@@ -885,7 +906,7 @@ Also I would like to Encourage and Thanks to @Yemi @Sourav @Vebby @José Fonceca
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day35_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day35_pic2.png) 
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day35_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day35_pic2.png) 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564591830348400)
 
@@ -908,7 +929,7 @@ Also I would like to Encourage and Thanks to @Sourav  @Labiba @sourav kumar @Veb
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day36_pic1.png)
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day36_pic1.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564678841136300)
 
@@ -935,7 +956,8 @@ Also I would like to Encourage and Thanks to @Yemi @Labiba @sourav kumar @Sourav
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge: 
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic3.png)
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic3.png)
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564764915370600)
 
@@ -959,7 +981,8 @@ Also I would like to Encourage and Thanks to @Yemi @Labiba @sourav kumar @Sourav
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
 
-Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day38_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day38_pic2.png) 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day38_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day38_pic2.png) 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564850908446200)
 
