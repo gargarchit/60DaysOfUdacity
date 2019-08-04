@@ -844,3 +844,123 @@ Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564419062331000)
 
 -----------
+
+## Day 34 [July 30, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on RNN vs LSTM  [Recurrent Neural Networks]  :udacity:
+
+:heavy_check_mark: Working on quiz at #sg_novice-ai
+
+:heavy_check_mark: Thinking of some new incentive for #sg_futuredevs and helping @Abdul Fathaah to start his group :slightly_smiling_face:
+
+:heavy_check_mark: Working on Maths Blogging competition with @sourav kumar @Mohona @Labiba  @Aniket Mitra @Diganta @Calincan Mircea Ioan @Agata [OR, USA]
+
+Also I would like to Encourage and Thanks to @Yemi @Sourav @Vebby @José Fonceca @Anna Scott @George Christopoulos @Carlo David @Adriel Vieira @Ellyana Linden :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day34_pic1.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564506587075500)
+
+-----------
+
+## Day 35 [July 31, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Basics of LSTM from [Recurrent Neural Networks]  :udacity:
+
+:heavy_check_mark: Training Cifar10 Model using CNN with Pytorch
+
+:heavy_check_mark: Working on Informal introduction to finite automata from Stanford
+
+:heavy_check_mark: Hosting a new incentive i.e working on a Advanced course at #sg_futuredevs for more Join channel :dddancee:
+
+:heavy_check_mark: Released Maths Blogging competition with @sourav kumar @Mohona @Labiba  @Aniket Mitra @Diganta @Calincan Mircea Ioan @Agata [OR, USA]
+
+Special Thanks to @andreiliphd for submitting his first Article toward Maths Blogging competition
+
+Checkout Article :link: https://medium.com/secure-and-private-ai-math-blogging-competition/wolfram-mathematica-as-your-research-instrument-when-doing-deep-learning-405900c6bace
+
+Also I would like to Encourage and Thanks to @Yemi @Sourav @Vebby @José Fonceca @Anna Scott @George Christopoulos @Carlo David @Adriel Vieira @Ellyana Linden :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day35_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day35_pic2.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564591830348400)
+
+-----------
+
+## Day 36 [Aug 1, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Architecture of LSTM from [Recurrent Neural Networks]  :udacity:
+
+:heavy_check_mark: Planning for a Meetup at #sg_novice-ai
+
+:heavy_check_mark: Working on Deterministic finite automata from Stanford
+
+:heavy_check_mark: Working on Key Stone project Creating Network Architecture
+
+:heavy_check_mark: Attend and participated AMA Session by @Palak.Udacity :palak:
+
+:heavy_check_mark: Participated and got 3rd Rank in Prediction Series held at #random by @Karthik K and @Nikita Sukhwal
+Also I would like to Encourage and Thanks to @Sourav  @Labiba @sourav kumar @Vebby @José Fonceca @Anna Scott @George Christopoulos @Carlo David @Adriel Vieira @Ellyana Linden :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day36_pic1.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564678841136300)
+
+-----------
+
+## Day 37 [Aug 2, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on The Learn Gate from [Recurrent Neural Networks]  :udacity:
+
+:heavy_check_mark: Training my model using helper functions for Malaria infected blood sample detection at #sg_spai-health
+:heavy_check_mark: Reading Convolutional Neural Networks an awesome Resource which comprises all key concepts Convolutional Layer ,Pooling Layer , Normalization Layer, Fully-Connected Layer
+
+:link: http://cs231n.github.io/convolutional-networks/#conv
+
+Also shared in #busy_or_overwhelmed THE   DIGEST - Aug 2 Evening Ed. Thank You @THIYAGARAJAN R :thank-you:
+
+:heavy_check_mark: Working on Training Conv Model for Key Stone project getting error Thanks to @Berenice @Arka @SANMITRA @Prashant Goyal at #tech_help resolving my error
+
+Also there is some #Todo marked by Andrew in error stacktrace which is not corrected till yet I reminded @trask for that at openminded Thanks to @Prashant Goyal for this
+
+:heavy_check_mark: Participating in Deep Racer LIVE ORIENTATION
+
+Also I would like to Encourage and Thanks to @Yemi @Labiba @sourav kumar @Sourav @Vebby @José Fonceca @Anna Scott @George Christopoulos @Carlo David @Adriel Vieira @Ellyana Linden :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge: 
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day37_pic3.png)
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564764915370600)
+
+-----------
+
+## Day 38 [Aug 3, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on The Forget Gate from [Recurrent Neural Networks]  :udacity:
+
+:heavy_check_mark: Participated in Kahoot Quiz Organized by @Kapil Chandorikar at #general  :bananadance:
+
+:heavy_check_mark: Learning SQL and created a Employee Table Database Mini Project using that thinking for my next Project based on Deep Learning using Pytorch
+
+:heavy_check_mark: Added Encrypted Gradients to my model of Key Stone project
+
+:heavy_check_mark: Working on Testing Models for Malaria infected blood sample detection
+
+:heavy_check_mark: Working on Lesson 2 Deep_Racer
+
+Also I would like to Encourage and Thanks to @Yemi @Labiba @sourav kumar @Sourav @Vebby @José Fonceca @Anna Scott @George Christopoulos  @Oudarjya Sen Sarma @Carlo David @Adriel Vieira @Ellyana Linden :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+Project Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day38_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day38_pic2.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564850908446200)
+
+-----------
