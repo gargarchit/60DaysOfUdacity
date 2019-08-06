@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles Written</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>11 + 3(working)</h2> | <h2>4</h2> | <h2>6</h2> | <h2>38</h2> |
+| <h2>11 + 3(working)</h2> | <h2>8</h2> | <h2>6</h2> | <h2>41</h2> |
 
 --------
 
@@ -36,7 +36,11 @@
 | 1 | Virtual | @Archit @Mohit @Hari Vamsi @Oudarjya Sen Sarma |
 | 2 | Virtual | @Aniket Mitra @sourav kumar @Archit @nabhanpv @Aarthi Alagammai @Shikhar Vaish @Akshay Pal  |
 | 3 | Virtual | @Labiba @Ashish Shrivastava @Archit @Joy Poddar @Mayank Devnani @Md. Mahedi Hasan Riday @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire |
-| 4| Virtual | @sourav kumar @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Munira Omar @Labiba @Ashish Shrivastava @Govind @Sharim |
+| 4 | Virtual | @sourav kumar @Archit @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Munira Omar @Labiba @Ashish Shrivastava @Govind @Sharim |
+| 5 | Virtual | @Ateniola Oluwatobi @Archit @Mushrifah Hasan @Seeratpal K. Jaura @Jess @akshu18 @Sourav @Ivy @Raunak Sarada @Alexander Villasoto @Ayush Yadav @Gogulaanand R @Ebinbin Ajagun @cibaca @erinSnPAI @Nishant Bharat |
+| 6 | Virtual | @Hung @Stark @Archit @ayivima @Ingus Terbets @Labiba @Oudarjya Sen Sarma @Seeratpal K. Jaura @Shudipto Trafder  @cibaca @Apoorva Patil @Alexander Villasoto  @Agata [OR, USA] |
+| 7 | Virtual | @Salomon @Vipul Aggarwal @Archit @Raunak Sarada @Aleksandra Deis @erinSnPAI |
+| 8 | Virtual | @Aniket Mitra @sourav kumar @Archit @Labiba @Diganta @Mohona @Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Munira Omar @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma |
 
 ------------
 
@@ -983,6 +987,82 @@ Also I would like to Encourage and Thanks to @Yemi @Labiba @sourav kumar @Sourav
 
 
 Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day38_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day38_pic2.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564850908446200)
+
+-----------
+## Day 39 [Aug 4, 2019] #60daysofudacity
+
+:heavy_check_mark: Watching and worked on The Remember Gate from [Recurrent Neural Networks]  :udacity:
+
+:heavy_check_mark: Working on my model of Key Stone project Also getting some bugs Correcting that
+
+:heavy_check_mark: Working on My Resume for online resume evaluation round by Interview_Club
+
+:heavy_check_mark: Had a great Meetup and nice discussion Thanks @Ateniola Oluwatobi Victor for hosting and  @Mushrifah Hasan @Seeratpal K. Jaura @Jess @akshu18 @Sourav @Ivy @Raunak Sarada @Alexander Villasoto @Ayush Yadav @Gogulaanand R @Ebinbin Ajagun @cibaca @erinSnPAI @Nishant Bharat for participating along. We discussed differential privacy and  how to approach and tackle the PATE analysis final project for the Differential privacy
+
+:heavy_check_mark: Had another great Meeting with @Hung @Stark @ayivima @Ingus Terbets @Labiba @Oudarjya Sen Sarma @Seeratpal K. Jaura @Shudipto Trafder  @cibaca @Apoorva Patil @Alexander Villasoto  @Agata [OR, USA] Discussed about Projects to participate in Project Showcase Challenge
+
+:heavy_check_mark: Attend another Meetup with @Salomon @Vipul Aggarwal @Raunak Sarada @Aleksandra Deis @erinSnPAI Discussing about Pytorch
+
+Also I would like to Encourage and Thanks to @Yemi @Labiba @sourav kumar @Sourav @Vebby @José Fonceca @Anna Scott @George Christopoulos @Carlo David @Adriel Vieira @Ellyana Linden :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day39_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day39_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day39_pic3.png) *|* [pic_4](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day39_pic4.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564940074279400)
+
+-----------
+
+## Day 40 [Aug 5, 2019] #60daysofudacity
+
+:heavy_check_mark: Implemented on The USE Gate from [Recurrent Neural Networks]  :udacity:
+
+:heavy_check_mark: Solving Error while adding Encryption privacy on my model of Key Stone project [Worked 1 Hours more to go :slightly_smiling_face: ]
+
+:heavy_check_mark: Attend and participated in AMA session by @Palak.Udacity :palak:
+
+:heavy_check_mark: Checking out and reading Tutorial by @trask at openminded github :andrew-trask:
+
+:link: https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%2010%20-%20Federated%20Learning%20with%20Secure%20Aggregation.ipynb
+
+:heavy_check_mark: A new exciting Incentive is coming for that we want huge support :dddancee: Discussing about this with other members Coming Soon
+
+:heavy_check_mark: Discussed about MATH BLOGGING CHALLENGE incentive preparing rules and evaluation criteria.
+Join for meetup tomorrow if you have any doubts related to this also we are releasing some sort of evaluation criteria so, it may be helpful for you also. Don't miss the chance #sg_dlstarguys #math_help
+
+:heavy_check_mark: Pull Request got merged by @trask where I Enhance this course content Material for Lesson 5 and 6 Checkout New version of Private AI Notebooks now from :link: https://github.com/udacity/private-ai
+
+I would like to Encourage and Thanks to  @Labiba @sourav kumar @Sourav @Anna Scott @George Christopoulos :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day40_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day40_pic2.png) *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day40_pic3.png) 
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565020248282000)
+
+-----------
+
+## Day 41 [Aug 6, 2019] #60daysofudacity
+
+:heavy_check_mark: Implemented LSTM using all gates [RNN]  :udacity:
+
+:heavy_check_mark: Working on Maleria Cell Recognisation correcting some error and doing optimization
+
+:heavy_check_mark: Participated in :awesome-ball: Virtual Meetup for Math Blogging Competition with @Aniket Mitra 
+@sourav kumar @Labiba @Diganta @Mohona @Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Munira Omar @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma
+
+:heavy_check_mark: Watching and Working on Non - Deterministic finite automata Lecture 4 from Stanford to going deeper into DL/CV Algos
+
+:heavy_check_mark: Working on Databases for make new database related to ML/DL project
+
+I would like to Encourage and Thanks to  @Sourav @Carlo David @Anna Scott @George Christopoulos :bettertogether:Having Orange Alert in Goa due to heavy rainfall may this will not effect my future updates :slightly_smiling_face:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day41_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day41_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day41_pic3.png) 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564850908446200)
 
