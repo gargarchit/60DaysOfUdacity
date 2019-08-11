@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles Written</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>11 + 3(working)</h2> | <h2>8</h2> | <h2>6</h2> | <h2>41</h2> |
+| <h2>11 + 4(working)</h2> | <h2>12</h2> | <h2>6</h2> | <h2>45</h2> |
 
 --------
 
@@ -41,6 +41,10 @@
 | 6 | Virtual | @Hung @Stark @Archit @ayivima @Ingus Terbets @Labiba @Oudarjya Sen Sarma @Seeratpal K. Jaura @Shudipto Trafder  @cibaca @Apoorva Patil @Alexander Villasoto  @Agata [OR, USA] |
 | 7 | Virtual | @Salomon @Vipul Aggarwal @Archit @Raunak Sarada @Aleksandra Deis @erinSnPAI |
 | 8 | Virtual | @Aniket Mitra @sourav kumar @Archit @Labiba @Diganta @Mohona @Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Munira Omar @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma |
+| 9 | Virtual | @kkech @Archit @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal |
+| 10 | Virtual | @ayivima @Hung @Archit @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Tuan Truong |
+| 11 | Virtual | @kkech @Archit @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia |
+| 12 | Virtual | @ayivima @Hung @Ingus Terbets @Archit @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar |
 
 ------------
 
@@ -1065,5 +1069,93 @@ I would like to Encourage and Thanks to  @Sourav @Carlo David @Anna Scott @Georg
 Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day41_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day41_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day41_pic3.png) 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1564850908446200)
+
+-----------
+
+## Day 42 [Aug 7, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Gated Recurrent Unit, Peephole Connections and Implement LSTM using peephole connections   :udacity:
+
+:heavy_check_mark: Worked on Maleria Project and trying Using Helper function to make it global and trying with different Architecture
+
+:heavy_check_mark: Participating in zoom Meetup for Pull request review of the projects related to Project Showcase Challenge with @kkech @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal
+
+:heavy_check_mark: Learning updating Database and Visualizing it using Python
+
+:heavy_check_mark:Had a great zoom webinar by Brett Ellis (Udacity) LinkedIn Guide: Getting Interviews w/out Applying Pt 1-Profile Optimization
+
+Thank You @Brett to solve all of my doubts :heart:
+
+I would like to Encourage and Thanks to  @Sourav @Labiba @Sayali_Kutwal @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day42_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day42_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day42_pic3.png) *|* [pic_4](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day42_pic4.png)  *|* [pic_5](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day42_pic5.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565192125330600)
+
+-----------
+
+## Day 43 [Aug 8, 2019] #60daysofudacity
+
+:heavy_check_mark: Implementing Recurrent Neural Networks and  Time-Series Prediction :udacity:
+
+:heavy_check_mark: Participated in zoom Meetup for Project Dataset discussion for #sg_novice-ai  group Project Showcase which was more than 2 hours long with @ayivima @Hung @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Tuan Truong
+
+:heavy_check_mark: Participating in Resume Evaluation round reviewed all Resume and posted mine
+
+:heavy_check_mark: Working on NFA Lecture 4 from Stanford and Implemented some techniques in DL Algos
+
+I would like to Encourage and Thanks to  @Sourav @Labiba @Sayali_Kutwal @sourav kumar :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day43_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day43_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day43_pic3.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565283649020200)
+
+-----------
+
+## Day 44 [Aug 9, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Training & Memory Recurrent Layers  :udacity:
+
+:heavy_check_mark: Participated in zoom Meetup for Project Discussion Dataset,  Data Preprocesing, and Model Architecture  for #sg_novice-ai  group Project Showcase with @ayivima @Hung @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar
+
+:heavy_check_mark: Participating in 2nd zoom Meetup for Pull request review of the projects related to Project Showcase Challenge with @kkech @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia
+
+:heavy_check_mark: Participated in Resume Evaluation round Day 2 Thanks @Aniket Mitra @Labiba  @Sajjad Manal @Mohona for nice opportunity to evaluate our Resume :smile:
+
+:heavy_check_mark: Working on and Understanding Deploying Machine Learning Digit Recognizer with Gunicorn on Heruko
+
+I would like to Encourage and Thanks to  @Carlo David @Dharmendra Choudhary @Frida @Seeratpal K. Jaura :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day44_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day44_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day44_pic3.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565370237012900)
+-----------
+
+
+## Day 45 [Aug 10, 2019] #60daysofudacity
+
+:heavy_check_mark: Watching and Working on Character-wise RNNs Recurrent Layers  :udacity::heavy_check_mark: Participated in Kahoot Quiz Organized by @Kapil Chandorikar at #general  :bunny-stars:
+
+:heavy_check_mark: Worked on Math Blogging Competition publishing and reviewing blogs submitted Today by @Akshay Pal @Rishi S Rao @Pooja Vinod @Seeratpal K. Jaura @Nischal Lal Shrestha Thanks all for participating
+
+:heavy_check_mark: Participated in Resume Evaluation round Day 3 at #jobs:heavy_check_mark: Launched Interview Preparation incentive at #seek_advice Everyone do Participate in it
+
+:link:https://secureprivataischolar.slack.com/archives/CL100NCNM/p1565443012108000
+
+:heavy_check_mark: Working on Model and Training Excepts of Project at #sg_novice-ai
+
+I would like to Encourage and Thanks to  @Carlo David @Labiba @sourav kumar @Helena Barmer :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day45_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day45_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day45_pic3.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565458383451900)
 
 -----------
