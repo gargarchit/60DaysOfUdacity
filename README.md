@@ -1159,3 +1159,88 @@ Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565458383451900)
 
 -----------
+
+
+## Day 46 [Aug 11, 2019] #60daysofudacity
+
+:heavy_check_mark: Watching and Working on Sequence Batching Recurrent Layers  :udacity:
+
+:heavy_check_mark: Reviewing Articles on Math Blogging Competition, also Thanks @Juan Carlos Kuri Pinto for participating today.
+
+:heavy_check_mark: Participated in Kahoot Quiz Organized by @Michael Sheinman at #general :dddancee:
+
+:heavy_check_mark: Working on modelling architectures for Project at #sg_novice-ai
+
+:heavy_check_mark: Participated in CodersBit 2019 (NIT Goa) 6 hours competitive programming Competition (tried some questions using Python also)
+
+I would like to Encourage and Thanks to  @Calincan Mircea Ioan @Labiba @sourav kumar @Seeratpal K. Jaura :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565541032001500?thread_ts=1565541032.001500)
+
+## Day 47 [Aug 12, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Implementing a Char-RNN Recurrent Layers  :udacity:
+
+:heavy_check_mark: Participated in zoom Meetup for Project Discussion Discussing about Preprocesing step and MODELLING  with @ayivima @Hung @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark @Marwa @Oudarjya Sen Sarma
+
+:heavy_check_mark:  Reviewing Articles on Math Blogging Competition :medium:
+
+:heavy_check_mark: Working with Project Showcase Challenge Team @kkech @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @SoumiaI would like to Encourage and Thanks to  @Carlo David @Dharmendra Choudhary @Frida @Seeratpal K. Jaura :bettertogether:
+
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565624466410600?thread_ts=1565624466.410600)
+
+## Day 48 [Aug 13, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Batching Data, Solution Recurrent Layers  :udacity:
+
+:heavy_check_mark: Participated in zoom Meetup for Project Discussion Discussing about Preprocesing step and MODELLING  with @ayivima @Hung @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark  @Oudarjya Sen Sarma @Pooja Vinod
+
+:heavy_check_mark:  Declared result for Math Blogging Competition :medium: Congrats @Rishi S Rao @Juan Carlos Kuri Pinto @Dupuy Nicolas and Thanks for great articles
+
+:heavy_check_mark: Working on Dense Net 161 Model Architecture :link:   openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Densely_Connected_Convolutional_CVPR_2017_paper.pdfI would like to Encourage and Thanks to  @Carlo David @sourav kumar @Labiba @Mohona :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565715939378700?thread_ts=1565715939.378700)
+
+## Day 49 [Aug 14, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Char-RNN Recurrent Layers  :udacity:
+
+:heavy_check_mark: Working on MODELLING of our project at #sg_novice-ai  with @Stark, @Kapil Chandorikar, @Hung, @Oudarjya Sen Sarma, @Olivia @Anju Mercian, @cibaca @George Christopoulos
+
+:heavy_check_mark: Released Round 2 for Math Blogging Competition :medium:
+
+:heavy_check_mark: Working on DenseNet Model to implement in my Project
+
+:heavy_check_mark: Working on Maleria Project trying Image Segmentation at #sg_spai-health
+
+I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @Labiba @Helena Barmer :bettertogether:
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565801050332600?thread_ts=1565801050.332600)
+
+## Day 50 [Aug 15, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Data Pre-Processing Sentiment Prediction RNNs  :udacity:
+
+:heavy_check_mark: Working on DenseNet Model for our project at #sg_novice-ai
+
+:heavy_check_mark: Reading Paper Densely Connected Convolutional Networks :link: https://arxiv.org/pdf/1608.06993v3.pdf
+
+:heavy_check_mark: Finalize my Pate Analysis Project and submitter to Project Showcase
+
+:heavy_check_mark: Icebreaker for Today Want to make a splash on this quiet day? :smiley: Head over to #random and share your favorite topic of the challenge course! :link:  https://secureprivataischolar.slack.com/archives/CJPF5UBU4/p1565872038192500
+
+Thanks @LauraT for sharing this in THE   DIGEST - Aug.15, Evening Ed.  at #busy_or_overwhelmed :smile:I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @Labiba @Anju Mercian :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565883421127800)
