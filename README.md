@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles Written</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>11 + 4(working)</h2> | <h2>12</h2> | <h2>6</h2> | <h2>45</h2> |
+| <h2>16</h2> | <h2>18</h2> | <h2>6</h2> | <h2>55</h2> |
 
 --------
 
@@ -53,6 +53,10 @@
 | 16 | @Sergio Valderrama  @Helena Barmer @Archit @Stanislav Ladyzhenskiy @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma |
 | 17 | @Helena Barmer @Stanislav Ladyzhenskiy @Archit @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma |
 | 18 | @ayivima @Aarthi Alagammai @Archit @Anju Mercian @Stark @cibaca @George Christopoulos @Alexander Villasoto @Hung @Ingus Terbets @Kapil Chandorikar @Rosa Paccotacya @Shudipto Trafder |
+
+------------
+
+# Daily Updates:
 
 ------------
 
