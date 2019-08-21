@@ -1187,6 +1187,9 @@ Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob
 
 I would like to Encourage and Thanks to  @Calincan Mircea Ioan @Labiba @sourav kumar @Seeratpal K. Jaura :bettertogether:
 
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day46_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day46_pic2.png)
+
+
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
 
 
@@ -1202,6 +1205,8 @@ I would like to Encourage and Thanks to  @Calincan Mircea Ioan @Labiba @sourav k
 :heavy_check_mark:  Reviewing Articles on Math Blogging Competition :medium:
 
 :heavy_check_mark: Working with Project Showcase Challenge Team @kkech @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @SoumiaI would like to Encourage and Thanks to  @Carlo David @Dharmendra Choudhary @Frida @Seeratpal K. Jaura :bettertogether:
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day47_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day47_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day47_ic3.png)  *|* [pic_4](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day47_pic4.png) 
 
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
@@ -1220,6 +1225,9 @@ I would like to Encourage and Thanks to  @Calincan Mircea Ioan @Labiba @sourav k
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day48_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day48_pic2.png) 
+
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565715939378700?thread_ts=1565715939.378700)
 
 ## Day 49 [Aug 14, 2019] #60daysofudacity
@@ -1236,6 +1244,10 @@ I would like to Encourage and Thanks to  @Calincan Mircea Ioan @Labiba @sourav k
 
 I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @Labiba @Helena Barmer :bettertogether:
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day49_pic1.png) 
+
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565801050332600?thread_ts=1565801050.332600)
 
@@ -1255,6 +1267,10 @@ Thanks @LauraT for sharing this in THE   DIGEST - Aug.15, Evening Ed.  at #busy_
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
+
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day50_pic1.png) 
+
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565883421127800)
 
 ## Day 51 [Aug 16, 2019] #60daysofudacity
@@ -1268,6 +1284,10 @@ Thanks @LauraT for sharing this in THE   DIGEST - Aug.15, Evening Ed.  at #busy_
 I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @Labiba @Helena Barmer :bettertogether:
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day51_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day51_pic2.png) 
 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565883421127800)
@@ -1289,6 +1309,9 @@ I would like to Encourage and Thanks to  @Rishi S Rao @Seeratpal K. Jaura @Labib
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day52_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day52_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day52_pic3.png) 
+
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566061778484900)
 
 ## Day 53 [Aug 18, 2019] #60daysofudacity
@@ -1306,6 +1329,10 @@ I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @La
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
 
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day53_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day53_pic2.png) 
+
+
+
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566143498243100)
 
 ## Day 54 [Aug 19, 2019] #60daysofudacity
@@ -1319,6 +1346,10 @@ I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @La
 I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @Labiba @Helena Barmer :bettertogether:
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day54_pic1.png)
+
 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566237315219800)
