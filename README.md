@@ -1244,3 +1244,83 @@ Thanks @LauraT for sharing this in THE   DIGEST - Aug.15, Evening Ed.  at #busy_
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565883421127800)
+
+## Day 51 [Aug 16, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on Encoding Words Sentiment Prediction RNNs :udacity:
+
+:heavy_check_mark: Had a general meetup today for the entire team to discuss our progress of our project at #sg_novice-ai hosted by @ayivima with @Kapil Chandorikar, @Hung, @Oudarjya Sen Sarma, @Olivia @Pooja Vinod @Shudipto Trafder, @Marwa @Alexander Villasoto @Ingus Terbets
+
+:heavy_check_mark: Working on DenseNet Model for Novice AI Xray project
+
+I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @Labiba @Helena Barmer :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1565883421127800)
+
+## Day 52 [Aug 17, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on Getting Rid of Zero-Length Sentiment Prediction RNNs :udacity:
+
+:heavy_check_mark: Finalizing Federated Learning on MNIST to submit in Project Showcase
+
+:heavy_check_mark: Participated in Zoom Meetup Webinar - Evolutionary Algorithms hosted by  @Sergio Valderrama:heavy_check_mark
+
+: Participated in my 1st Zoom Meeting with #sg_pytorch-robotics hosted by @Helena Barmer with @Stanislav Ladyzhenskiy @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma
+
+:heavy_check_mark: Participated in Kahoot quiz for all topics in #general by @Kapil Chandorikar :ddance:
+
+I would like to Encourage and Thanks to  @Rishi S Rao @Seeratpal K. Jaura @Labiba @Shudipto Trafder :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566061778484900)
+
+## Day 53 [Aug 18, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on Cleaning & Padding Data Sentiment Prediction RNNs :udacity:
+
+:heavy_check_mark: Had a general meetup today for the entire team to discuss our progress of our project at #sg_novice-ai hosted by @ayivima with @Aarthi Alagammai @Anju Mercian @Stark @cibaca @George Christopoulos @Alexander Villasoto @Hung @Ingus Terbets @Kapil Chandorikar @Rosa Paccotacya @Shudipto Trafder
+
+:heavy_check_mark: Working on Project for Project Showcase
+
+:heavy_check_mark: Participated in Kahoot quiz at #general hosted by @Michael Sheinman :bananadance:
+
+I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @Labiba @Vebby :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566143498243100)
+
+## Day 54 [Aug 19, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on Padded Features of Sentiment Prediction RNNs and working on Exercise Notebook [Intro to Deep learning with Pytorch] :udacity:
+
+:heavy_check_mark: Participated in AMA session by @Palak.Udacity :palak:
+
+:heavy_check_mark: Working and finalizing the Project at #sg_novice-ai and #sg_spai-health for Project Showcase:heavy_check_mark: Working with Project Showcase Moderator Team reviewing pull requests
+
+I would like to Encourage and Thanks to  @Calincan Mircea Ioan @sourav kumar @Labiba @Helena Barmer :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566237315219800)
+
+## Day 55 [Aug 20, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on TensorDataset & Batching Data of Sentiment Prediction RNNs :udacity: [Continue Progress trying to complete this too in this challange :smile: ]
+
+:heavy_check_mark: Finalizing the Project at #sg_novice-ai for Project Showcase:heavy_check_mark:
+
+Spend most of the time working for reviewing pull request for Project Showcase with  @kkech @Shanmugapriya @Palak.Udacity @Soumia @cibaca @Calincan Mircea Ioan @Mohona @Sajjad Manal @Apoorva Patil [7 hours left Hurry Up]
+
+I would like to Encourage and Thanks to  @ayivima @Stark @sourav kumar @Labiba @George Christopoulos :bettertogether:
+
+:dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566320605489900)
