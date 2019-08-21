@@ -22,29 +22,37 @@
 | 9 | Federated Learning with Encrypted Gradient Aggregation | Day 14 |
 | 10 | Hackathon Blossom (Flower Classification) | Day 20 |
 | 11 | Dog Breed Identification | Day 21 |
-|  | Malaria-Blood-Sample-Classification | Working |
-|  | HotDog Classification | Working |
-|  | KeyStone Project | Working |
-|  | Leaf Classification | Working |
+| 12 | HotDog Classification | Day 40 |
+| 13 | Leaf Classification | Day 42 |
+| 14 | KeyStone Project | Day 52 |
+| 15 | Malaria-Blood-Sample-Classification | Day 55 |
+| 16 | Disease-detection-using-chest-xrays [Submitted in Project Showcase] | Day 55 |
+
 
 ------------
 
 ## MeetUps List
 
-| No  |  MeetUp Type  | Participants |
-| :------------: | :------------: | :------------: |
-| 1 | Virtual | @Archit @Mohit @Hari Vamsi @Oudarjya Sen Sarma |
-| 2 | Virtual | @Aniket Mitra @sourav kumar @Archit @nabhanpv @Aarthi Alagammai @Shikhar Vaish @Akshay Pal  |
-| 3 | Virtual | @Labiba @Ashish Shrivastava @Archit @Joy Poddar @Mayank Devnani @Md. Mahedi Hasan Riday @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire |
-| 4 | Virtual | @sourav kumar @Archit @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Munira Omar @Labiba @Ashish Shrivastava @Govind @Sharim |
-| 5 | Virtual | @Ateniola Oluwatobi @Archit @Mushrifah Hasan @Seeratpal K. Jaura @Jess @akshu18 @Sourav @Ivy @Raunak Sarada @Alexander Villasoto @Ayush Yadav @Gogulaanand R @Ebinbin Ajagun @cibaca @erinSnPAI @Nishant Bharat |
-| 6 | Virtual | @Hung @Stark @Archit @ayivima @Ingus Terbets @Labiba @Oudarjya Sen Sarma @Seeratpal K. Jaura @Shudipto Trafder  @cibaca @Apoorva Patil @Alexander Villasoto  @Agata [OR, USA] |
-| 7 | Virtual | @Salomon @Vipul Aggarwal @Archit @Raunak Sarada @Aleksandra Deis @erinSnPAI |
-| 8 | Virtual | @Aniket Mitra @sourav kumar @Archit @Labiba @Diganta @Mohona @Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Munira Omar @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma |
-| 9 | Virtual | @kkech @Archit @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal |
-| 10 | Virtual | @ayivima @Hung @Archit @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Tuan Truong |
-| 11 | Virtual | @kkech @Archit @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia |
-| 12 | Virtual | @ayivima @Hung @Ingus Terbets @Archit @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar |
+| No    | Participants |
+| :------------:  | :------------: |
+| 1 |  @Archit @Mohit @Hari Vamsi @Oudarjya Sen Sarma |
+| 2 |  @Aniket Mitra @sourav kumar @Archit @nabhanpv @Aarthi Alagammai @Shikhar Vaish @Akshay Pal  |
+| 3 |  @Labiba @Ashish Shrivastava @Archit @Joy Poddar @Mayank Devnani @Md. Mahedi Hasan Riday @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire |
+| 4 |  @sourav kumar @Archit @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Munira Omar @Labiba @Ashish Shrivastava @Govind @Sharim |
+| 5 |  @Ateniola Oluwatobi @Archit @Mushrifah Hasan @Seeratpal K. Jaura @Jess @akshu18 @Sourav @Ivy @Raunak Sarada @Alexander Villasoto @Ayush Yadav @Gogulaanand R @Ebinbin Ajagun @cibaca @erinSnPAI @Nishant Bharat |
+| 6 |  @Hung @Stark @Archit @ayivima @Ingus Terbets @Labiba @Oudarjya Sen Sarma @Seeratpal K. Jaura @Shudipto Trafder  @cibaca @Apoorva Patil @Alexander Villasoto  @Agata [OR, USA] |
+| 7 |  @Salomon @Vipul Aggarwal @Archit @Raunak Sarada @Aleksandra Deis @erinSnPAI |
+| 8 |  @Aniket Mitra @sourav kumar @Archit @Labiba @Diganta @Mohona @Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Munira Omar @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma |
+| 9 |  @kkech @Archit @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal |
+| 10 | @ayivima @Hung @Archit @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Tuan Truong |
+| 11 | @kkech @Archit @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia |
+| 12 | @ayivima @Hung @Ingus Terbets @Archit @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar |
+| 13 | @ayivima @Hung  @Archit @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark @Marwa @Oudarjya Sen Sarma |
+| 14 | @ayivima @Hung  @Archit @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark @Oudarjya Sen Sarma @Pooja Vinod |
+| 15 | @ayivima @Kapil Chandorikar,  @Archit @Hung, @Oudarjya Sen Sarma, @Olivia @Pooja Vinod @Shudipto Trafder, @Marwa @Alexander Villasoto @Ingus Terbets |
+| 16 | @Sergio Valderrama  @Helena Barmer @Archit @Stanislav Ladyzhenskiy @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma |
+| 17 | @Helena Barmer @Stanislav Ladyzhenskiy @Archit @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma |
+| 18 | @ayivima @Aarthi Alagammai @Archit @Anju Mercian @Stark @cibaca @George Christopoulos @Alexander Villasoto @Hung @Ingus Terbets @Kapil Chandorikar @Rosa Paccotacya @Shudipto Trafder |
 
 ------------
 
