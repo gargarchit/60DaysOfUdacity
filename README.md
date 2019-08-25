@@ -1367,3 +1367,68 @@ I would like to Encourage and Thanks to  @ayivima @Stark @sourav kumar @Labiba @
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566320605489900)
+
+
+## Day 56 [Aug 21, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on Defining the Model and Exercise on this from Sentiment Prediction RNNs :udacity:
+
+:heavy_check_mark: Started Thank You Udacity and Facebook Video Initiative going to release Announcement soon with @Calincan Mircea Ioan @Varez.W @kkech @Labiba @Daniela Beck @MihailD @Diganta  @Ellyana Linden @Prashant Goyal @Anju Mercian @Arunn  @Sajjad Manal @Mika
+
+:heavy_check_mark: Working for left over reviewing pull request for Project Showcase with  @kkech @Shanmugapriya @Soumia @cibaca @Calincan Mircea Ioan @Sajjad Manal
+
+:heavy_check_mark: Got Google Swag Today for completing DATA ENGINEERING Quest/12+ Lab
+
+I would like to Encourage and Thanks to  @ayivima @sourav kumar @Labiba @George Christopoulos 
+
+:bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+## Day 57 [Aug 22, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on Training the Model for Sentiment Prediction RNNs :udacity:
+
+:heavy_check_mark: Trying Style Transfer simile Project
+
+:heavy_check_mark: Working with Math Blogging Competition Team @Aniket Mitra, @Labiba, @Mohona, @Calincan Mircea Ioan @Diganta, @sourav kumar, @Agata [OR, USA] @Archit
+
+For more Details :link: https://docs.google.com/document/d/1rirA8tDjwDj2W79k9Fg9m5tLjLg4BDPdvAjGtEo0Bw8/edit?usp=sharing
+
+:heavy_check_mark: Our Project Disease Detection Using Chest Xrays was acknowledged by Andrew Trask :andrew-trask: and Andrew starred the repository that was submitted to the project showcase! Repository 
+
+:link: https://github.com/SGNovice/Disease-detection-using-chest-xrays:heavy_check_mark: Prepared a Summary of Community Events [FEATURED INITIATIVE IN LAST WEEK OF PHASE 1]
+
+:link: https://secureprivataischolar.slack.com/archives/CKC6MNSRG/p1566486761374100
+
+I would like to Encourage and Thanks to  @Calincan Mircea Ioan @kkech @Labiba @George Christopoulos
+
+:bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+## Day 58 [Aug 23, 2019] #60daysofudacity
+
+:heavy_check_mark: Worked on Testing the Model for Sentiment Prediction RNNs :udacity:
+
+:heavy_check_mark: Had a 2 hour long Virtual Meetup with #sg_novice-ai Team @ayivima @Aarthi Alagammai @Alexander Villasoto @Anju Mercian @cibaca @Hung @Ingus Terbets @Kapil Chandorikar @Marwa @Oudarjya Sen Sarma @Pooja Vinod @Shudipto Trafder Discussed about future of #sg_novice-ai and success of our project Disease Detection Using Chest Xrays which was recognized by @trask at Open-minded
+
+:heavy_check_mark: Working with Thank You Udacity and Facebook Video Team to launch this initiative
+
+I would like to Encourage and Thanks to  @Calincan Mircea Ioan @kkech @Labiba @George Christopoulos
+
+:bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+## Day 59 [Aug 24, 2019] #60daysofudacity
+
+:heavy_check_mark: Working on Inference, Solution for Sentiment Prediction RNNs :udacity:
+
+:heavy_check_mark: Launch Thank You video Initiative along with @Calincan Mircea Ioan @Varez.W @kkech @Labiba @Daniela Beck @MihailD @Diganta  @Ellyana Linden @Prashant Goyal @Anju Mercian@Arunn  @Sajjad Manal @Mika @Marwa
+
+
+For more details :link: https://secureprivataischolar.slack.com/archives/CJSCX4WAZ/p1566628257187300:heavy_check_mark: Participated in Kahoot quiz for all topics in #general by @Kapil Chandorikar :ddance:
+
+:heavy_check_mark: Reading Keystone project — federated learning + encrypted computation for MNIST by @sourav kumar
+
+:link: https://medium.com/secure-and-private-ai-writing-challenge/keystone-project-federated-learning-encrypted-computation-for-mnist-ee09a90d6b08
+
+I would like to Encourage and Thanks to  @Oudarjya Sen Sarma @Pooja Vinod @Vebby @George Christopoulos 
+
+:bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity 
