@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles Written</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>16</h2> | <h2>18</h2> | <h2>6</h2> | <h2>55</h2> |
+| <h2>16</h2> | <h2>18</h2> | <h2>6</h2> | <h2>60</h2> |
 
 --------
 
@@ -1432,3 +1432,23 @@ For more details :link: https://secureprivataischolar.slack.com/archives/CJSCX4W
 I would like to Encourage and Thanks to  @Oudarjya Sen Sarma @Pooja Vinod @Vebby @George Christopoulos 
 
 :bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+
+## Day 60 [Aug 25, 2019] #60daysofudacity
+
+
+:celebrate: :celebrate: :celebrate: 
+:heavy_check_mark: Working on *Deploying PyTorch Model* using Torch Script [Lesson 9] [Intro to Deep Learning] :udacity:
+
+:heavy_check_mark: Participated in last *Kahoot quiz* at #general by @Michael Sheinman :celebrate:
+
+:heavy_check_mark: Participating in *Deep learning with Pytorch* Webinar at #sg_novice-ai :thank-you:
+
+:heavy_check_mark: Read a Article:  *7 Types of Neural Network Activation Functions: How to Choose?* :awesome-ball:
+:link: https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/
+
+I would like to Encourage  @Oudarjya Sen Sarma @Sourav @Fustincho @sourav kumar @Vebby @Calincan Mircea Ioan @Labiba @LauraT @Yemi @Seeratpal K. Jaura @George Christopoulos @kkech @Stark to stay motivated and complete #60daysofudacity :bettertogether:
+
+:thank-you: Thanks to @akshit.udacity @Palak.Udacity :celebrate: and whole Udacity :udacity: and Facebook :facebook: Scholarship team to provide me this opportunity to participate in #60daysofudacity [60 Days of learning without a single break for the first time] :awesome-ball: :awesome-ball:
+
+:dart:*Updated my #60daysofudacity posts* :link: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
