@@ -1,6 +1,8 @@
 ![alt text](/Images/logo.jpg)
 
-<h2> Counting begins</h2> 
+<h2 align=center> #60DaysofUdacity Completion badge</h2> 
+
+![alt text](/Images/60-day-badges.png)
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles Written</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
@@ -1473,3 +1475,6 @@ I would like to Encourage  @Oudarjya Sen Sarma @Sourav @Fustincho @sourav kumar 
 Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day60_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day60_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day60_pic3.png) 
 
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566741961057400)
+
+![alt text](/Images/60_days_valid.jpg)
+
