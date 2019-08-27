@@ -4,7 +4,7 @@
  
 | <h2>Projects</h2> | <h2>MeetUps</h2> | <h2>Articles Written</h2> | <h2>Cups of Coffee</h2> |
 | :------------: | :------------: | :------------: | :------------: | 
-| <h2>16</h2> | <h2>18</h2> | <h2>6</h2> | <h2>60</h2> |
+| <h2>16</h2> | <h2>19</h2> | <h2>6</h2> | <h2>60</h2> |
 
 --------
 
@@ -53,6 +53,7 @@
 | 16 | @Sergio Valderrama  @Helena Barmer @Archit @Stanislav Ladyzhenskiy @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma |
 | 17 | @Helena Barmer @Stanislav Ladyzhenskiy @Archit @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma |
 | 18 | @ayivima @Aarthi Alagammai @Archit @Anju Mercian @Stark @cibaca @George Christopoulos @Alexander Villasoto @Hung @Ingus Terbets @Kapil Chandorikar @Rosa Paccotacya @Shudipto Trafder |
+| 19 |  @ayivima @Aarthi Alagammai @Alexander Villasoto @Anju Mercian @cibaca @Hung @Ingus Terbets @Kapil Chandorikar @Marwa @Oudarjya Sen Sarma @Pooja Vinod @Shudipto Trafder |
 
 ------------
 
@@ -1383,6 +1384,11 @@ I would like to Encourage and Thanks to  @ayivima @sourav kumar @Labiba @George 
 
 :bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day56_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day56_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day56_pic3.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566061778484900)
+
 ## Day 57 [Aug 22, 2019] #60daysofudacity
 
 :heavy_check_mark: Worked on Training the Model for Sentiment Prediction RNNs :udacity:
@@ -1403,6 +1409,8 @@ I would like to Encourage and Thanks to  @Calincan Mircea Ioan @kkech @Labiba @G
 
 :bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day57_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day57_pic2.png)
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566494375114800)
 
 ## Day 58 [Aug 23, 2019] #60daysofudacity
 
@@ -1415,6 +1423,10 @@ I would like to Encourage and Thanks to  @Calincan Mircea Ioan @kkech @Labiba @G
 I would like to Encourage and Thanks to  @Calincan Mircea Ioan @kkech @Labiba @George Christopoulos
 
 :bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity 
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day58_pic1.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566581410017300)
 
 ## Day 59 [Aug 24, 2019] #60daysofudacity
 
@@ -1433,6 +1445,9 @@ I would like to Encourage and Thanks to  @Oudarjya Sen Sarma @Pooja Vinod @Vebby
 
 :bettertogether::dart:Updated: https://github.com/gargarchit/60DaysOfUdacity 
 
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day59_pic1.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566665981325000)
 
 ## Day 60 [Aug 25, 2019] #60daysofudacity
 
@@ -1452,3 +1467,9 @@ I would like to Encourage  @Oudarjya Sen Sarma @Sourav @Fustincho @sourav kumar 
 :thank-you: Thanks to @akshit.udacity @Palak.Udacity :celebrate: and whole Udacity :udacity: and Facebook :facebook: Scholarship team to provide me this opportunity to participate in #60daysofudacity [60 Days of learning without a single break for the first time] :awesome-ball: :awesome-ball:
 
 :dart:*Updated my #60daysofudacity posts* :link: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
+
+
+
+Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day60_pic1.png) *|* [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day60_pic2.png)  *|* [pic_3](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day60_pic3.png) 
+
+> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1566741961057400)
