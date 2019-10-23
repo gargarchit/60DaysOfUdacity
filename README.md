@@ -33,32 +33,6 @@
 
 ------------
 
-## MeetUps List
-
-| No    | Participants |
-| :------------:  | :------------: |
-| 1 |  @Archit @Mohit @Hari Vamsi @Oudarjya Sen Sarma |
-| 2 |  @Aniket Mitra @sourav kumar @Archit @nabhanpv @Aarthi Alagammai @Shikhar Vaish @Akshay Pal  |
-| 3 |  @Labiba @Ashish Shrivastava @Archit @Joy Poddar @Mayank Devnani @Md. Mahedi Hasan Riday @Navin Khandeparkar @Nazmul @Oudarjya Sen Sarma @Shivam Raisharma @Sushil Ghimire |
-| 4 |  @sourav kumar @Archit @Calincan Mircea Ioan @Oudarjya Sen Sarma @Aarthi Alagammai @Munira Omar @Labiba @Ashish Shrivastava @Govind @Sharim |
-| 5 |  @Ateniola Oluwatobi @Archit @Mushrifah Hasan @Seeratpal K. Jaura @Jess @akshu18 @Sourav @Ivy @Raunak Sarada @Alexander Villasoto @Ayush Yadav @Gogulaanand R @Ebinbin Ajagun @cibaca @erinSnPAI @Nishant Bharat |
-| 6 |  @Hung @Stark @Archit @ayivima @Ingus Terbets @Labiba @Oudarjya Sen Sarma @Seeratpal K. Jaura @Shudipto Trafder  @cibaca @Apoorva Patil @Alexander Villasoto  @Agata [OR, USA] |
-| 7 |  @Salomon @Vipul Aggarwal @Archit @Raunak Sarada @Aleksandra Deis @erinSnPAI |
-| 8 |  @Aniket Mitra @sourav kumar @Archit @Labiba @Diganta @Mohona @Aarthi Alagammai @Anju Mercian @Ashish Shrivastava @Govind @Munira Omar @Seeratpal K. Jaura @shahnoza @Oudarjya Sen Sarma |
-| 9 |  @kkech @Archit @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal |
-| 10 | @ayivima @Hung @Archit @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Tuan Truong |
-| 11 | @kkech @Archit @Sajjad Manal, @Mohona, @Shanmugapriya @Apoorva Patil @Calincan Mircea Ioan @Sajjad Manal @Soumia |
-| 12 | @ayivima @Hung @Ingus Terbets @Archit @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar |
-| 13 | @ayivima @Hung  @Archit @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark @Marwa @Oudarjya Sen Sarma |
-| 14 | @ayivima @Hung  @Archit @Ingus Terbets @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark @Oudarjya Sen Sarma @Pooja Vinod |
-| 15 | @ayivima @Kapil Chandorikar,  @Archit @Hung, @Oudarjya Sen Sarma, @Olivia @Pooja Vinod @Shudipto Trafder, @Marwa @Alexander Villasoto @Ingus Terbets |
-| 16 | @Sergio Valderrama  @Helena Barmer @Archit @Stanislav Ladyzhenskiy @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma |
-| 17 | @Helena Barmer @Stanislav Ladyzhenskiy @Archit @Mateusz @Elena Kutanov @Shashi Gharti @Juan Carlos Kuri Pinto @cibaca @Sourav @Sayed Maheen Basheer @Jess @Ivy @Temitope Oladokun @Ebinbin Ajagun @Joyce @Ayesha Manzur @Pooja Vinod @Ankur Bhatia @Shivam Raisharma |
-| 18 | @ayivima @Aarthi Alagammai @Archit @Anju Mercian @Stark @cibaca @George Christopoulos @Alexander Villasoto @Hung @Ingus Terbets @Kapil Chandorikar @Rosa Paccotacya @Shudipto Trafder |
-| 19 |  @ayivima @Aarthi Alagammai @Alexander Villasoto @Anju Mercian @cibaca @Hung @Ingus Terbets @Kapil Chandorikar @Marwa @Oudarjya Sen Sarma @Pooja Vinod @Shudipto Trafder |
-
-------------
-
 # Daily Updates:
 
 ------------
@@ -75,7 +49,6 @@ Link ::link:   https://github.com/gargarchit/PATE_Analysis   with Accuracy 92.36
 
 :heavy_check_mark:Take Part in AMA session :akshit-sir:
 
-Already Encouraged @Manisha & @Labiba to take part and they started as well :bettertogether: 
 #60DaysOfUdacity
 
 Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day1_pic1.jpg) *|*
@@ -95,8 +68,6 @@ Link:link:: https://github.com/gargarchit/Federated-Learning-on-MNIST
 
 :heavy_check_mark:Make a Repo Link: https://github.com/gargarchit/60DaysOfUdacity to manage my Daily Updates on #60daysofudacity
 
-:heavy_check_mark:Would Like to Encourage @George Christopoulos, @Sarah Majors and around 400 scholars added by me in this Channel Today to follow this path:bettertogether:
-
 > [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1561731451103600)
 ----
 ## Day 3/60 [June 29, 2019] #60daysofudacity
@@ -111,13 +82,11 @@ Spent nearly 3 hours debugging and therefore *achieved 98.9000% Accuracy*
 
 :heavy_check_mark:Completed coursework till Lesson 8 Part 4 i.e *Fixing Additive Secret Sharing [Securing Federated Learning]*:andrew:
 
-:heavy_check_mark: Take part in quiz organized by @Rishi S Rao (Reading Group) *Got 90% Score*:bananadance:
+:heavy_check_mark: Take part in quiz organized by (Reading Group) *Got 90% Score*:bananadance:
 
 :heavy_check_mark: Revise Lesson 7 Part 1 to Part 8 {Helps me in Debugging}:done:
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity
-
-:bettertogether:Would Like to Encourage @Calincan Mircea Ioan, @Yemi:yemi: 
 
 
 Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day3_pic1.png) *|*
@@ -141,13 +110,11 @@ Do Check out: :link: https://medium.com/secure-and-private-ai-writing-challenge/
 
 :heavy_check_mark: Start working on Project - *Build Methods for Encrypt, Decrypt, and Add [Securing Federated Learning]*
 
-:heavy_check_mark: Take part in Kahoot quiz organized by @Michael Sheinman
+:heavy_check_mark: Take part in Kahoot quiz
 
 :heavy_check_mark: Revise Lesson 7 Complete :done:
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity
-
-:bettertogether:Would Like to Encourage @George Christopoulos, @andreiliphd, @Rishi S Rao, @Michael Sheinman
 
 
 Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day4_pic1.png) *|*
@@ -172,8 +139,6 @@ at Google Colab:penguin_dance:{Will share Github link later after pushing there}
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
-:bettertogether:Would Like to Encourage @Adriel Vieira, @Prashant Goyal, @Yemi, @sourav kumar to follow the same path
-
 
 
 Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day5_pic1.png) *|*
@@ -187,20 +152,13 @@ Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob
 
 :heavy_check_mark:Working on Lesson 8: Securing Federated Learning *Project works and Exercises*:udacity_badge:
 
-:heavy_check_mark: Discussed about *study group* with @Rishi S Rao, @Labiba :panda_dance: also Discussed with @Aniket Thomas @Halwai Aftab Hasan @Deepak Kumar @Rakshit Naidu @Harsh @Sankalp Dayal @Shubhendu Mishra about kaggle challenge based group:bananadance:
-
 :heavy_check_mark: Will Take Part in *Career Webinar: Don’t Mind the Gap* By Udacity at zoom: https://udacity.zoom.us/j/799742919
-
-Thanks @George Christopoulos @Labiba @Sankalp Dayal @Yemi @Adriel Vieira for motivating me always :grinning: :torch_heart_big:
-
-I would like to encourage @Frida, @Fustincho, @Helena Barmer :bettertogether:
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
 Attached Screenshots: [pic_1](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day6_pic1.png) *|*
 [pic_2](https://github.com/gargarchit/60DaysOfUdacity/blob/master/Images/Day6_pic2.png)
 
-> [Slack Link](https://secureprivataischolar.slack.com/archives/CKRQP9ZLL/p1562077659007100)
 ----
 
 ## Day 7/60 [July 3, 2019] #60daysofudacity
@@ -211,11 +169,10 @@ Link:link: https://github.com/gargarchit/Federated-Learning-with-Encrypted-Gradi
 
 :heavy_check_mark: Completed Exercise of Lesson 8: Securing Federated Learning :bananadance:
 
-:heavy_check_mark: Discussed about project and Team up with @Rishi S Rao, @Siddharth Srivastava  and started working on *Malaria-Blood-Sample-Classification*:penguin_dance:
+:heavy_check_mark: Discussed about project and started working on *Malaria-Blood-Sample-Classification*:penguin_dance:
 
 :heavy_check_mark: Watching videos of Convolutional Neural Network[Lesson 5: Intro to deep learning with PyTorch at Udacity][Completed till: Part 10]
 
-I would like to encourage @George Christopoulos , @Labiba, @Ana, @Anna Scott :bettertogether:
 
 :dart: Updated: https://github.com/gargarchit/60DaysOfUdacity :60daysofudacitybadge:
 
